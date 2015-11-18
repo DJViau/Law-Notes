@@ -8,7 +8,7 @@ community property state: earnings in a marriage are split 50/50
 
 	the rest are separate property states
 
-elective share: allows a spouse to claim a portion of the decedent’s estate despite a will to the contrary 
+elective share: allows a spouse to claim a portion of the decedent’s estate despite a will to the contrary
 
 	public policy restriction on testator freedom
 
@@ -41,7 +41,7 @@ personal representative: person who will handle the estate
 
 	if you have a will, you name the person in the will
 
-	if you don’t have a will, there’s a statute 
+	if you don’t have a will, there’s a statute
 
 	this displaced the now-outdated “executor/administrator”
 
@@ -95,7 +95,7 @@ the property passes through intestacy statutes
 
 A dies, blackacre passes to the children as tenants in common
 
-this, over time, fractionalized the land 
+this, over time, fractionalized the land
 
 the investors bought a small share, forced a sale, and bought it cheap
 
@@ -112,7 +112,7 @@ top choices for property on death:
 
 	federal level has transfer tax (above 5.43 million gets a 40% tax, except to charities and US spouses)
 
-	states mostly have inheritance tax 
+	states mostly have inheritance tax
 
 	forced share common throughout world, but not here
 
@@ -121,7 +121,7 @@ top choices for property on death:
 ways to get funds from parents to kids:
 
 	lifetime gifts (limited per person and comes out of your 5.4m limit, annual exclusion is 14k per person per 	year)
-		
+
 		generation skipping transfer (limited to 5.4m too)
 
 		bargain sale to kids similar
@@ -140,9 +140,143 @@ ways to get funds from parents to kids:
 
 	tangible personal property (give gold and diamonds to the kids, no paper trail not even a title)
 
-	
+
 65% of the IRS budget is spent on enforcement
 
-	as a political matter we don’t want indefinite political and economic oligopolies 
+	as a political matter we don’t want indefinite political and economic oligopolies
 
 
+
+
+
+
+WILLS DAY 21
+
+
+	NY BAR:  TOTTEN TRUSTS, even though they're totally unimportant
+
+		totten trust:  a POD bank account substitute.
+
+			to o as trustee for a.  o retained right to withdraw funds.
+			when o dies, a gets whatever remains.
+			this is not a real trust, despite the name.
+			answer the question as if POD designation.
+
+
+	VARELA v BERNACHEA
+
+		FACTS:
+			two argentinian lovers
+			fella was married to someone else
+			guy titles his mistress as a joint tenant on the CMA
+				CMA: cash mgmt acct.  brokerage account with checking power.
+			guy gets sick, kids arrive, boot the mistress out
+			she withdraws 280k
+			she makes a new account with ML and deposits there
+				[she shoulda gone to BoA]
+				they would have refused to give the money back
+
+		he wins at trial ct level because he had no donative intent
+
+		Account types:
+
+			Joint Tenancy:
+				both parties have rights
+				irrevocable.  o cannot unilaterally withdraw
+				o cannot unilaterally close
+				divorce turns it into TinC
+			Agency:
+				agent can draw while principle lives
+				they can write checks, but get nothing on death
+				requires trust, they can write full acct value checks
+				revocable during O's competence
+			POD:
+				payable on death
+				revocable, changeable any time
+
+			Teller just gives you the JT form
+			Its better for banks because its lower liability
+				they don't have to worry about who dies when in a JT
+
+		He understood the JT rules
+
+		Majority rule:  you're presumed to have made a gift of at least 1/2 of the contents of the account when you add a person as a JT
+
+			it's a reubttable presumption in FL (not everywhere)
+			but because of the facts, he could not rebut
+
+		UPC: net contribution rule (adopted in many states)
+
+			if he loaded the funds, she can't clean him out
+			3/4 and 1/4 split in funding = same rights to access
+
+		IRS:
+
+			JT with non-spouse: net contribution rule
+			JT with spouse: 1/2 is presumed gift, 1/2 estate taxed
+
+		"You gotta be careful.  Christina will clean you out." -TT
+
+
+	Tenancy by the Entirety:
+
+		only for married couples
+		only in some states
+			in some, it's only for real property
+		stronger than JT
+		dissolves to JT or TinC on divorce
+		you cannot force the sale of a property
+			contrasts to JT, where either party can force the sale
+			A can unilaterally force it from JT to TinC
+			then A can force the sale
+
+
+	PLANNING FOR INCAPACITY
+
+		"most important 40 minutes we will have this semester"
+
+		AGENCY RELATIONSHIPS in incapacity:
+
+			HORRIBLE: GUARDIANSHIP
+			BAD: CONSERVATORSHIP
+			GOOD: UTMA/UGMA
+			GREAT: REVOCABLE TRUST
+
+				build a mechanism into a trust that determines incapacitation
+				majority vote of nuclear family and doctor
+
+		POWERS OF ATTORNEY:
+
+			Ordinary Power of Attorney:
+
+				the person is your agent until you become incapacitated
+				theyre essentiall useless
+
+			Durable Power of Attorney:
+
+				statutory override of common law
+				valid right away and carries thorugh incapacity
+
+			Sprining Power of Attorney:
+
+				not valid immediately
+				only becomes valid on incompetence
+					or you can specify any trigger you want
+
+				theyre out of style
+					institutions are suspicious of them
+					bank must investiage the incapacity
+					too much headache
+						banks sent it to lawyers, huge delays
+						court would have to give a judgment
+						without being sued to comply, bank would not comply
+					defeats the purpose of the thing
+
+		Always have separate documents for healthcare and financial PoA
+
+		FPoA can do every financial thing the principle can, except:
+
+			-affidavit
+			-will
+			-marriage
+			-divorce
