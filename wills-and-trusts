@@ -399,7 +399,7 @@ WILLS DAY 22
 
 
 
-WILLS FINAL CLASS
+WILLS PENULTIMATE CLASS
 
 	last exam is on Bb under content
 
@@ -553,5 +553,352 @@ WILLS FINAL CLASS
 				T had kids when the will was executed and left all his estate to the omitted child's [jack's] mom
 
 					this is an anomolous application of the AL statute
+
+WILLS FINAL CLASS
+
+	Fiduciary duties
+		especially trustee's duties
+
+		old way: you only had those powers that were enumerated in the doc
+
+		classic tension:  giving the trustee broad powers v safguarding the beneficiaries
+
+		modern solution: default broad powers subject to fiduciary duties
+
+			they have extremely broad powers as a modern trustee unless the doc restricts you otherwise
+
+			the restrictions come from fiduciary law now
+
+		if you breach one of your fiduciary duties, mad litigation
+
+		S815 UPC gives you the powers at once
+		S816 UPC enumerates the powers to facilitate transactions
+
+			most pracitioners still list everything
+
+			it's easier to get a bank to open a trust account if you have a one liner in your doc that enumerates the power of [opening a checking account]
+
+		THIRD PARTIES:
+
+			used to be they had a duty to inquire as to the legality of the action the trustee was trying to do
+
+				RE broker had a duty to look into the trust
+
+				this slowed down the process and reqd court intervention
+
+			now, no duty to inquire
+
+				this allows third parties to be more comfy in dealing with fiduciaries without having to run it past general counsel
+
+		POWERS v DUTIES
+
+			some trustee might have the power to do a thing, but that's separate from the duty inquiry
+
+			you can have the power to do a thing
+
+			and still violate your duty if you did it badly
+
+			two step inquiry:
+
+				-does truste have the power to do it?
+					this is almost always yes now
+				-did they breach a duty when they used that power?
+					this is where the litigation is at now
+
+		CHARITABLE TRUSTS
+
+			private trusts can be set up for human beneficiaries
+			or
+			for a charitable purpose
+
+			if you have a charitable trust, the person in charge of enforcing the fiduc duty is the atty general of the state
+
+			sometimes the settlor, if still living, can allege a breach of fiduc duty
+
+			ATTY GENERAL must get involved to remedy a breach of fiduc duty for a charitable trust
+
+			at any given time, there's tens of thousands that need attention
+
+			they'd do noting else if they really had to handle it all
+
+			POLICY ISSUE? EXAM?
+
+
+		HARTMAN v HARTLE
+
+			decedent leaves a will naming the son in laws as executors
+				this is rare and harsh, probably pissed kids off
+
+			will says to sell all RE and distribute proceeds
+
+			they sold some
+
+			at issue is the farm
+
+			this piece got sold in a sham transaction to give it to one of the executors to sell
+
+			law would collapse that sham transaction
+
+			NO SELF DEALING RULE
+
+				you cant make a sweet deal to advance your own interests as a fiduc
+
+				you can't make any self deal as a fiduciary
+
+					self dealing = ITS OVER
+
+					no further inquiry rule
+
+				if you engage in self dealing, you've violated your duty
+
+			REMEDIES
+
+				hold trustee liable for the profit made (this case)
+				compel trustee to return the property (if purchase from trust)
+				repay purchase price and take back property (if sale from trust)
+
+			the property here had been sold to a BFP
+
+				therefore BFP gets to keep property and trustee has to pay up
+
+
+			BONDING
+
+				if youre a PR or a trustee, state law often requires you to get a fidcuiary bond from an insurance company (EXPENSIVE 25%)
+
+				the bond guarantees the full value of the estate/trust
+
+				mostly you waive bond in the governing instrument
+
+				this becomes an issue when the trustee runs off with the dough
+
+				this comes out of the trust or estate, fiduc gets paid regardless
+
+
+		PROPER SELF DEALING
+
+			if its really in eveyrone's best interests
+
+			you can get settlor's consent
+
+			or
+
+			you can get consent of all the beneficiaries
+				including minor and unborn beneficiaries
+
+			or
+
+			you can go to court before you do it
+				theyll tell you yes or no
+
+
+		GLEESON'S WILL
+
+			the settlor dies
+
+			the PR was farming one of the pieces of land
+
+				he wasnt a beneficiary under the will
+
+			settlor dies two weeks before the lease was up
+
+			this guy had a week to figure out what to do with the land
+
+			his options:
+
+				-renew the lease for himself
+					he renewed at a higher price
+					benes got a sweet deal
+					different from Hartman
+				-renew the lease for someone else
+					in a week only
+				-let it go without leasing
+					but that means no rent
+
+				none is great
+
+			he did the best thing for the beneficiaries
+
+			nonetheless, the court found against him
+
+				he shoulda gotten the consent of the beneficiaries
+
+				or
+
+				gone to court to get instructions
+
+					but is this option realistic?
+					should he have known to do this?
+					could he have had time to?
+
+				OR
+
+				he could have refused to be the executor
+
+					this would have solved the lease problem
+					and he would have likely paid less
+
+
+			taking on a fiduciary duty is a lot of responsibility
+
+				mostly people dont sue on this stuff
+
+				but bad shit plays out when they do
+
+				think twice about accepting a trustee role
+
+					especially if its not paid
+
+
+				doing it as a pro is a little different
+
+					get more knowledge
+
+					get a rider on top of your normal malpractice insurance
+
+
+		structural conflicts
+
+			are an exception to the no-further-inquiry rule
+
+			if you're a shareholder and named as a trustee
+
+				and the settlor knew about the conflict
+
+			then the court presumes the settlor meant for the arrangment
+
+			the court lets the trustee vote the shares without any self dealing
+
+			BAR EXAM likes these fact patterns
+
+			keep an eye out for settlor's structural conflict
+
+
+
+		IN RE ROTHKO
+
+			Rothko left all his assets to a charitable foundation
+
+			the daughter has standing nonetheless bc of a NY law that allowed children to set aside part of a charitable devise
+
+				mortmain statutes
+
+					policy:
+
+						some man of the cloth visits you on your deathbed and sways you to change your will to leave it to the church to imporve your chances of getting into heaven
+
+						to mitigate the impact of this undue influence on your heirs, statutes allowed kids to come in and get a half of your total estate
+
+					theyre gone now, but they drove the rothko case
+
+				without these, the kdis would not have standing to challenge an executor's actions
+
+					they could test the will, but no suits on breach of exec duties
+
+			Rothko put three coexecutors in place
+
+				Reis
+					treasurer and secretary at the gallery
+					he got ten percent while R was alive
+					he bumped his commish to 50% on R's death
+				Stamos
+					shitty artist whose job was to do whatever Reis said
+					Reis was also selling Stamos' paintings
+				Levine
+					a bit out of it
+
+			principal assets of the estate were the paintings
+
+				798 of them
+
+			the coexecs sold 100 to the gallery for 1.8 million
+
+				18k/painting
+				this was clealy underselling these
+				very clearly self dealing
+				very clealy under market price
+				done deal inside of three weeks
+
+			this was self dealing and conflict of interest bc
+
+				of the issue whether rothko's existing contract survived his death
+				sometimes a contract can survive the death of a party
+
+				reis wanted it not to survive so he could bump his commission
+
+			[any time you see a lichtenstein corp there's something fishy goin on]
+
+			the court found that reis and stamos had engaged in self dealing
+
+			reis was also found guilty of self-dealing
+
+				bc he looked the other way
+
+				if you are a co-trustee and you witness some bad shit you have an obligation to do something about it
+
+					not just voting against it
+					you gotta act against it
+					as in go to court
+
+					levine shoulda gone to court right away
+
+						he also coulda tried to resign
+						but he'd need consent or court approval
+
+						even if he'd voted aginst it and resigned, he'd still be liable
+
+						you can't escape trustee liability for stuff that's already happened just by resigning EXAM
+
+			COURT hits these guys with appreciation damages
+
+				value at time of opinion minus what they were sold for
+
+					and then they're jointly and severally liable for that amt
+
+				levine got tagged for a slightly lower amount
+
+			Maybe this could have gone down as a settlor-created structural conflict
+
+				this would have let these guys off the hook to some extent
+
+				the remedy would have been the difference at the time of the sale between reality and market
+
+				the bulk of the damages were the appreciation damages from the later years, this would have made a significant difference
+
+		it used to be that you'd need a unanimous vote to to anything with multiple trustees
+
+			now you just need a majority
+
+
+
+		CHARITABLE PRIVATE FOUNDATION v CHIN/ZUCKERBERG LLC
+
+			Private Foundation:
+
+				there's a lot of limitations on private foundations
+
+				5% must come out every year
+
+					if there's not big growth, you're drying up
+
+				donor can't be the majority on the board
+
+				immediately charitable income tax deduction that carries for five years
+
+			Zuck style LLC:
+
+				different tax consequences
+
+				only get deductions when the money goes out to a charity
+
+				no min or max for output
+
+				thye can be 100% in charge
+
+				only drawback is that they don't get full up front charitable income tax deduction
+
+				they'll dole out the money every year so that they give away just about what they need to offset their income tax in a given year
+
+				this will grow in the near future
 
 				
