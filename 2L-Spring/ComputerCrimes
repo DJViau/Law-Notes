@@ -36,4 +36,146 @@ Computer Crimes Day 1
                 -company enjoys an advantage bc of the code
                 -the company works to protect it
 
-        
+Computer Crimes Day 2
+1/19/16
+
+    NEW PROSECUTORIAL THEORY:  UNAUTHORIZED ACCESS
+
+        most computer crimes now involve UA + X
+
+            where X is doing harm, taking info, etc
+
+        18 USC Sec. 1030
+
+            prohibits ACCESS to a PROTECTED COMPUTER, WITHOUT AUTHORIZATION
+
+        1030e2B p15
+
+            everything that runs on software or stores data is a COMPUTER, more or less
+
+                including laptops, cell phones, thumb drives, servers
+                also anything connected to the internet
+
+            PROTECTED COMPUTER means
+
+                any gov computer
+                any bank computer
+                any computer connected to the internet
+
+            This amounts to a tremendous expansion of federal criminal jdx across the world over billions of computers.
+
+                The policy implications of this are monumental and unexamined
+
+        1030a1
+
+            UA to obtain classified gov secrets, never actually used
+
+        1030a2  *big one
+
+            #1 anti-hacking-statute!  Fuck you Aaron!
+
+                intentionally accessing a computer without enough auth and obtains info
+
+                obtains info includes just reading the info
+
+        1030a3
+
+            trespass, rarely used, only for gov computer
+
+        1030a4
+
+            computer misuse that furthers a fraud
+
+        1030a5 *big one
+
+            UA and cause damage
+
+            this is the one for viruses
+
+            split into 3:
+
+                -reckless
+                -knowingly
+                -causes
+
+            intentional access of a protected computer, and causes intended harm:
+
+                life sentence
+
+                eg if you disrupt traffic control and cause deaths and crashes, life
+
+        1030a6
+
+            password trafficking.  includes sharing passwords. 10 year felony.
+
+        1030a7
+
+            extortion
+
+        1030b
+
+            attempt of any of the above is treated as success
+
+        damage
+
+            means impairment to the integrity or availability of data, a program, a system, or info
+
+            a mere trespass can give a bank a reason to replace a whole system, which can be considered damage under this definition
+
+        loss
+
+            any reasonable cost to any victim
+
+        1030g
+
+            anyone who suffers damage or loss can bring a civil suit
+
+            this creates a computer tort
+
+    WHAT IS ACCESS?
+
+        focus is on rights, not property interest or deprivation
+
+        virtual or physical?
+
+        State v Riley
+
+            early brute force attack
+
+            statutory definition of access = approach = guilt
+
+        State v Allen
+
+            knocking on the door != guilt
+
+        Email == access
+
+        Port scans != access
+
+        Access is very broad, so authorization becomes the limiting concept
+
+        take access for granted, inquire into authorization
+
+        US v MORRIS
+
+            intended function test *
+
+            cornell student has an account, but he wants to point out the security failures
+
+            he brings down the entire internet at the point when it was a few thousand computers
+
+            he used his email account.  but it's not "exceeding authorization"
+
+            it's not the intended function, so it's "w/o authorization"
+
+        Whether or not you can qualify something as a "code-based barrier" affects your culpability
+
+            if you get past a code based barrier, you're sunk
+
+        US v NOSAL
+
+            guy steals proprietary info from his employer and kills the biz
+
+            court decides sensibly by reading the statute narrowly on policy grounds
+
+            no other circuit is willing to do that, though
