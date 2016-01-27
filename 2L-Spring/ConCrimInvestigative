@@ -200,9 +200,13 @@ Days 2 & 3
 
         3rd party doctrine cases
 
+        IF YOU GIVE YOUR INFO TO A 3RD PARTY, YOU HAVE NO REOP
+
     GREENWOOD
 
         do you have a REOP in your trash?
+
+            NO REOP IN TRASH
 
         if you do, then it's a search for them to root through it
 
@@ -275,4 +279,272 @@ Days 2 & 3
 
             this test is added to KATZ now
 
+            KNOW THE HOLDING, KNOW THE CONCURRENCES
+
         ALITO:  the tech is cheap, so no kyllo issue. 4 weeks of snooping is too much
+
+            Time and Cost of tech play here
+
+Day 4
+1/25/16
+
+    Search Analysis:
+
+        1- was there a search?
+            -katz REOP test
+            -jones/jardines trespassory interest
+        2- if yes, did the search comply with the requirements of the fourth amendment?
+        3- if no, what is the remedy?
+
+        big secondary questions:
+
+            -is it a HOME being searched?
+            -what is the intent of the cop?
+
+    JONES CONTINUED
+
+        SCALIA'S Elements of Trespass Test
+
+            -a trespass occurs
+            -the trespass is onto an enumerated 4thA item
+            -it occurs with the purpose/intent to find something or obtain info
+
+        ALITO'S CONCURRENCE
+
+            maj overemphasizes trespass
+            issue is actually duration
+            3rd Party Doctrine
+            he likes the REOP test from KATZ
+            property considerations
+
+            no GPS bugs.  follow the old fashioned way only.
+
+                a process hurdle in the way causes police to make better decisions.
+                more resources req'd means cops only pursue the bad bad guys
+
+    KNOTTS/KARO/JONES RECAP
+
+        -trespass is a problem with beepers (jones)
+        -[tech+duration] is a problem
+
+        these cases can be harmonized RE trespass
+        knotts: no REOP in your movements on public thoroughfares
+        karo: beeper drum moves into several different homes, special protection
+
+    CABALLES
+
+        gloss on PLACE (H: drug sniffing dog in airport is not a search bc they only disclose the presence of narcotics/contraband)
+
+        drug sniffing dog rule extended to traffic stops
+
+        not a search unless it unreaosnably extends the length of the seizure
+
+    JARDINES
+
+        F: drug sniffing dog detects pot smell.  they go and get a warrant, and find pot.
+
+        ISSUE: was the dog sniff a search that invalidates the later warrant?
+
+        police used device not in public use (analogy to thermal camera in kyllo)
+        this is in the porch of a HOME (this makes it less like place and caballes)
+
+        GOV would argue:  dog sniff is not a search
+
+            C/A, this is after jones
+
+                there's a physical trespass on the curtilage of the home
+
+                    gov: though, there's an implied license to approach a porch
+
+                but not to snoop aggressively or "look into" the house
+
+                    gov: "knock and talk" is ok under the 4th
+
+                    and place and caballes say dog sniff is not search bc narrow
+
+                this is different bc they brought superdog
+
+                    gov: dogs are an ancient and common tool in copland
+
+                    and a normal human could have smelled it w/o dog
+
+        HOLDING:
+            the gov's use of trained police dogs
+            to investigate the home and its immediate surroundings
+            is a search within the meaning of the 4thA
+
+    DRAYTON
+
+        F:  cops get on bus, one posts up at front, one posts up at rear, one moves through cabin hassling passengers
+
+            they consent to some searches, and get into some trouble
+
+        I: did the police seize the passengers by taking control of the bus?
+
+            if yes, everything afterwards is tainted
+
+        how do we know when someone is seized?
+
+            whether they are free to leave/terminate the enounter
+
+            RULE: a person is not seized when he has freedom to leave (mendenhall) or free to terminate the encounter (this adapts the rule to the bus context)
+
+            factors:
+
+                -number of cops
+                -threatening presence
+                -weapon display or presence
+                -physical touching
+                -language and tone (asking or directing)
+
+            It's not enough that the D did not feel free.  A reasonable person std instead.
+            We consider reasonable, innocent, [white?] cilvilians.
+
+            Cop's subjective experience not determinative either.
+
+        HOLDING:  because they did not ask to leave the encounter, they consented to the seizure and in turn their consent to the search was effective
+
+            11th C: the cop should have to inform the subject of his right to terminate
+
+            SCOTUS:  no obligation to inform the subject of his freedom to leave
+
+    4THA SEIZURE ANALYSIS:
+
+        -was there a 4thA seizure?
+        -if yes, did the seizure comply with the reqs of the 4thA
+        -if no, what is the remedy?
+
+            this does not turn on the officer's intent
+
+        an arrest is the classic seizure
+
+            cops needs probable cause to arrest
+            but not always a warrant
+
+        a Terry Stop is another type
+
+            cop needs reasonable suspicion
+            and can frisk you for safety
+
+        a DWI checkpoint is a seizure
+
+            but its reasonable under certain guidelines, even without suspicion
+
+        a MENA style "search warrant seizure" does not require reasonable suspicion or PC
+
+        [ostensibly, a cop cannot use a refusal to stay and talk as grounds for R/S]
+
+    HODARI
+
+        police pursuit case
+
+        physical force seizure: when cop touches suspect
+        show of authority seizure: when suspect submits to cop's authority
+
+        here, a guy tossed crack while chased by cop
+
+        he was not seized bc he had not yet SUBMITTED to the cop's authority
+
+Day 5
+1/27/16
+
+    EXAM:  is access of cell site metadata a search?
+
+        Know these cold: Jones, Katz, Kyllo
+
+    Was there a seizure?  Draw on the four seizure rules:
+
+    FOUR SEIZURE RULES
+
+        -MENDENHALL/DRAYTON:
+
+            not a seizure if a normal person would feel free to leave/end
+            no requirement for cops to advise freedom to terminate
+
+            factors:
+
+                number of officers
+                threatening presence
+                weapon display
+                physical touching
+                language/tone
+
+        -BROWER:
+
+            purely accidental stop does not trigger 4thA
+            but driver who collided with roadblock was seized
+
+        -BRENDLIN: when you've stopped the driver, you've stopped everyone in the car
+
+        -HODARI: fleeing suspect is not seized by pursuing gov agents.
+
+            only force by cop or submission by suspect counts as a seizure
+
+    EXAM PREP:
+
+        know what questions to ask, know what cases require them
+
+    Practice Problem Review:
+
+        -duration
+        -pretense
+        -technology v manpower
+        -threat as seizure
+        -search of info trusted to a 3rd party
+        -home, car, person get special analysis
+
+        From the start of a search analysis, decide whether it's a REOP analysis or a TRESPASS analysis
+
+        Be prepared to analyze a new technology (super cocaine sniffer)
+
+            is it more like PLACE/JARDINES or KYLLO?
+
+        Seizure:
+
+            Conditional language by cops about freedom to leave cuts in favor of a seizure
+            Blocked exits
+            Number of officers
+
+        Third Party Doctrine
+
+    ANALYTICAL FRAMEWORK:
+
+        1- was there a search or seizure?
+            if no search or seizure, no 4thA application
+        2- if yes, did the cops comply with the 4thA requirements?
+            traditional model
+                warrant and PC required
+                exceptions to warrant reqs
+            reasonableness model
+        3- if no, what is the remedy?
+
+    ABOVE IS ALL ABOUT DEFINING 4thA SEARCHES AND SEIZURES
+
+    NOW, WE'RE TALKING COMPLIANCE
+
+    Is there even a warrant requirement?
+
+        some interpret the 4th to mean: no warrant requirement
+        the 4th is about requirements for when you do get a warrant
+        not a req that you always get one
+
+        these people advance the "reasonable" part more than the "warrant" part
+
+    Adequacy of a Warrant:
+
+        -Neutral decisionmaker
+            no bias COOLIDGE
+            no dough CONNALLY
+            no req of legal training SHADWICK
+            no in-person req McNEELY/RILEY
+
+        -Probable cause
+
+        -Particularity
+
+        -Oath/Affirmation
+
+            Affidavit must be comprehensive, no sandbagging WHITELY
+            Affidavit must be true, no twisting or omitting FRANKS
+
+        -Time, Place, Manner
