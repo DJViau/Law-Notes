@@ -548,3 +548,204 @@ Day 5
             Affidavit must be true, no twisting or omitting FRANKS
 
         -Time, Place, Manner
+
+Day 6
+2/1/2016
+
+    Warmup:
+
+        [The 4thA] protection consists in requiring that
+        those inferences be drawn by a neutral and detached magistrate,
+        instead of being judged by the officer
+        engaged in the often competitive enterprise of ferreting out crime.
+
+        An evaluation before the search is better because it mitigates the effect of hindsight bias
+
+        When police have to seek a warrant before hand, two ex ante judgments have been made.
+
+    ["reasonable suspicion" is a term saved for terry stops]
+
+    WILSON:  you have to knock and announce unless there's a reason not to
+
+        exceptions: officer safety, preservation of evidence
+
+            exception from BANKS: reasonable suspicion of an exigency
+
+                the rule after wilson and banks:
+
+                no blanket exception to knock and announce for felony drug cases, but if no one's at the door within 15-20 seconds, kick it in
+
+    "Search Warrant Seizures"
+
+        SUMMERS: you can detain occupants of the target without suspicion during a search
+
+        MENA: you can handcuff occupants for 2-3 hours during a search
+
+        BAILEY: no detention of a guy who left when he's a mile away
+
+            they had RS to stop him, but probably not PC to arrest him and movie him
+
+            BAILEY imposes a geographical limitation on SUMMERS
+
+    "Sneak and Peak Warrants" 429
+
+        cops can allow a search without giving notice to the occupants (before or after) if court believes notice of the execution of the warrant will screw things up
+
+            30 day limit or longer if justifiable
+
+        this comes up mostly in the national security context (PATRIOT ACT)
+
+    PROBABLE CAUSE BEGINS HERE
+
+    BRINEGAR 432
+
+        PC exists when
+
+            the facts and circumstances
+            within the cops' knowledge
+            and of which they had reasonably trustworthy information
+            are sufficient in themselves to warrant a man of reasonable caution
+            in the belief that an offense has been or is being committed
+
+    YOU NEED PC TO ARREST OR TO SEARCH OR TO SEIZE
+
+    NATHANSON: mere affirmance of belief or suspicion is not enough
+
+        not even from an old pro
+
+    DRAPER: cop corroboration of info in informants' tip validates
+
+        specificity counts
+        accuracy of prediction counts
+        innocence of corroborated conduct matters
+        track record of the informant matters
+        anonymity matters
+
+        Still good law under totality of the circumstances test
+
+    SPINELLI: two prong test introduced (abandoned in GATES)
+
+        -Veracity/Reliability
+            established by corroboration (Draper factors)
+        -Basis of Knowledge
+            established by corroboration
+            specific to future events
+            intimacy between suspect and rat
+
+        some states still use this
+        states can have a higher standard
+        fed con crim law sets the floor
+
+    GATES: IL-FL drug run case
+
+        abandons SPINELLI std and adopts "totality of the circumstances"
+        anonymous tip affords little basis of knowledge
+            but it did predict a lot of future behavior that was later corroborated
+            this is different from DRAPER because we don't know the informant
+
+        no more technical standard
+
+    ORNELAS: PROBABLE CAUSE is review DE NOVO on appeal in warrantless searches
+
+        this is not true de novo review though
+
+            they review facts only for clear error
+            and they give "due weight" to officers and district court
+            which locks in the crap and leaves no room for meaningful review
+
+        more deferential is employed in review of warrant searches
+
+        F: CA plates on a "drug dealer" car with a loose panel
+
+    HARRIS: a certified dog has a presumption that its alerts provide PC
+
+        D can still argue on the dog's shitty record
+            but you're gonna cary the burden, and where do you get the info
+            plus hindsight bias
+
+Day 7
+2/3/2016
+
+    RULE:  What the officer knows has to be written out in the warrant
+
+    PC factors for tips:  innocence of conduct, corroboration by cops, accurate prediction
+
+    HERE STARTS THE WARRANT EXCEPTIONS SECTION
+
+    The EXIGENT CIRCUMSTANCES exception to the warrant "requirement"
+
+        four key questions:
+
+            -when does the exigency expire? (MINCEY)
+            -are the suspects fleeing? (WARDEN)
+            -is destruction of evidence possible?
+                THREE ABOVE REQUIRE PC, THE ONE BELOW DOES NOT
+            [-are the cops engaging in community caretaking?]
+
+            RULE: cops must have probable cause to search, and the exigency prevents the option of seeking a warrant
+
+    MINCEY
+
+        RULE: a limited amount of unwarranted searching is permissible at a homicide scene in order to secure the safety of possible victims and officers.  you can detain and grab weapons
+
+            the push in the first ten minutes and then poking around that follows is where we draw the line
+
+            four days of searching cannot be justified by the exigency
+
+        RULE: a warrantless search must be strictly circumscribed by the exigencies which justify its initiation
+
+        cite this case to support a warrant preference model
+
+    WARDEN
+
+        BUIE:  you're allowed to do a sweep of the house
+
+        RULE:  cops in hot pursuit can follow a fleeing felony suspect into a house and conduct a limited search there
+
+        speed is essential, and safety plus evidence are key
+
+    WELSH
+
+        WARDEN does not control here because welsh was not a felon, and the pursuit was not hot.  The gov's best argument would be destruction fo evidence through metabolism
+
+        RULE: the hot pursuit exception to the warrant requirement does not extend to cool pursuit
+
+        RULE: the severity of the offense helps to determine whether there's an exigency
+
+    ELKINS
+
+        cops see a pot plant through a hole in a wall, then detain a person outside the building, and then saw a guy aware of the cops go into the building
+
+        this gives them reason to believe that evidence would be destroyed
+
+        they had PC to believe he had pot in the building
+
+        RULE:  cops can enter to search even if they were partly responsible for creating the exignecy
+
+    JOHNSON
+
+        cops hang outside a door and listen, the door opens
+
+        the cops lies about what he had seen inside the apartment
+
+        therefore the court recognized no PC
+
+    KY v KING
+
+        undercover cop making a drug buy.  they follow him to a two-apartment fork.  they smell pot under one door.  they choose that door, but they're wrong
+
+        they knock and yell police (think JARDINES), they enter when they hear shuffling
+
+            [knock and announce is a warrant procedure, knock and talk is a warrantless PC procedure]
+
+        I: whether they created the exigency that allowed them to go into the apartment and in turn, whether that is a legit exigent circumstances exception candidate
+
+        RULE:  where the police did not create the exigency by engaging or threatening to engage in conduct that violates the 4thA, warrantless entry to prevent the destruction of evidence is reasonable and thus allowed
+
+        objective reasonability is the key
+
+            the subjective intent of the cops does not matter
+
+            bad faith by cops is no deal breaker because its so hard to prove the bad faith
+
+        
