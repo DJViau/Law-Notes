@@ -742,10 +742,216 @@ Day 7
 
         RULE:  where the police did not create the exigency by engaging or threatening to engage in conduct that violates the 4thA, warrantless entry to prevent the destruction of evidence is reasonable and thus allowed
 
+            Police-created exigencies are no deal breaker.
+            Exigent circumstances without PC are not sufficient.
+
+            In order to satisfy the exigent circumstances requirement, you need EXIGENT CIRCUMSTANCES and PROBABLE CAUSE.
+
+            Exam Process:
+
+                Q1: PC?
+                Q2: Exigent Circumstances?
+
+                    -eg, hot pursuit, risk of destruction of evidence
+                    -police-created exigency == okay
+                    -exigencies expire
+
         objective reasonability is the key
 
             the subjective intent of the cops does not matter
 
             bad faith by cops is no deal breaker because its so hard to prove the bad faith
+
+Day 8
+2/8/2016
+
+    WELSH:  exigent circumstance analysis affected by seriousness of the crime
+
+        but no blanket rules, even for homicide
+
+    STANTON:  hot pursuit trumps seriousness of crime analysis.  hot pursuit == exigency
+
+    MCNEELY:  no categorical rule allowing warrantless blood tests bc telephones exist
+
+    EXIGENCY ANALYSIS:  consider also
+
+        the amount of time needed to get a warrant
+
+        and the seriousness of the offense
+
+    ROHRIG:  community caretaking model allows mere reasonable suspicion to justify entry
+
+        once the cops find a way in, remember to ask about the scope of the permissible search
+
+    STUART: cops observed a "fracas."
+
+        RULE: Cops may enter a home without a warrant
+
+            -to render emergency assistance to an injured occupant or
+            -to protect an occupant from imminent injury
+
+        arguments made against letting cops enter under a community caretaking model, but with an intent to make arrests (under the criminal investigation model)
+
+    RYBURN: rumor about kid shooting up the school
+
+        FACTS:
+
+            no PC based on info going in, but then the mom responds weirdly
+
+            still no PC, even with all the suspicious facts
+
+            under traditional criminal model, the police cannot enter the house
+
+            but the cumulative weight of the facts allow the cops to infer that someone might be in danger in the house
+
+        Reasoning:
+
+            therefore, under the community caretaking model, and with concern for officer safety
+
+            it was reasonable for the cops to go inside, according to the court
+
+        RULE:  cops can readily enter a house under the community caretaking model
+
+    EXAM STRATEGY:  make a list of fact chunks, and attach a group of cases to each
+
+    ABOVE:  EXIGENT CIRCUMSTANCES
+    BELOW:  PLAIN VIEW EXCEPTION
+
+    THE PLAIN VIEW EXCEPTION APPLIES TO SEIZURES
+
+        seizures of objects found during a search, that is
+
+        it allows cops to seize evidence of a crime found on a search without having to go get a warrant specifically for the seizure
+
+        RULE:  Police may seize contraband or evidence of a crime where
+
+            -object is in plain view
+            -cop is legally authorized to be there
+            -cop can take physical control of the item from where he is
+            -object's contraband nature is "immediately apparent"
+
+    CLASS:  VIN case
+
+        cops searching for VIN see a gun
+
+        Looking through the window standing next to the car does not require plain view doctrine.  It's not even a search.
+
+        the first issue is where he opens the door and shuffles the papers
+
+            -is there a [4thA] search?
+                no, because no REOP in VIN
+            -did it violate the 4th?
+                no, we don't even get to this question
+            -what is the remedy?
+                none, that guy is on the hook for the gun
+
+            *after jones or jardines this might come out differently
+
+        the second issue is where he seizes the gun
+
+            -there is a seizure
+            -but plain view doctrine permits the seizure, so no violation
+
+                plain view
+                cop is authorized to be there
+                cop can legally take control of the item from where he is
+                contraband nature is apparent
+
+            -no remedy bc no violation
+
+    HICKS:  fancy stereos in crappy apartment
+
+        LOTS OF USEFUL RULES IN THIS CASE
+
+        cop had to touch and move the stereo in order to get the serial number
+
+        PLAIN VIEW ANALYSIS:
+
+            1&2- they're in the apt w/o a warrant, under the exigent circumstances exception
+
+            3&4- but the serial number is on the bottom, and no PC that it's evidence of a crime or that it's contraband
+
+            the fondling goes too far
+
+    HORTON: inadvertence is not necessary to a plain-view seizure
+
+    ABOVE: PLAIN VIEW
+    BELOW: AUTOMOBILES
+
+    CARROLL:  gives us the automobile exception to the warrant requirement
+
+        cars are easily moved, this means there's an exigency argument
+        cars are easily moved, this means evidence is vulnerable to destruction
+        cars go on the road and are subject to pervasive regulations, so no REOP
+
+        if you have PC that there's evidence of a crime in a car, cops can stop and search it without a warrant
+
+Day 9
+2/10/2016
+
+    CHADWICK: container-out-of-car case
+
+        RULE: more REOP in footlocker than car
+
+        they can seize container with PC, but they'd need a warrant to open it
+
+    ROSS: whole car and containers within can be searched if they have PC for car
+
+    ACEVEDO:
+
+        RULE: if they have PC for the car they can search an automobile and all containers within it
+
+        RULE:  if they have PC to search for the container, they can search the car until they find the container, and they can open the container
+
+            *Finding contraband in the course of a search for a particular container may generate PC for the rest of the container/car.
+
+    CARNEY:  reduced EOP in a mobile home
+
+        RULE: cops can search a mobile home w/o a warrant if they have PC
+
+        *if it's on blocks, it might be treated more like a home
+        *if it's on wheels, the car rules apply
+
+    HOUGHTON:  purse in car case
+
+        RULE: cops with PC to search a car may search passengers' belongings found in the car that are capable of concealing the object of the search
+
+        DI RE RULE: PC to search a car does not justify a body search of passenger
+        YBARRA RULE: warrant for tavern and bartender does not permit body searches of patrons
+
+    ARRESTS SECTIONS
+
+        you need PC to believe that a person committed a particular crime to arrest
+
+    AWADALLAH: material witness arrests
+
+        cops may arrest a person who they have PC to think has material information on an ongiong grand jury investigation
+
+    WATSON:
+
+        RULE: 4thA doesn't require a warrant for felony arrests in public
+
+        RULE: 4thA doesn't require a warrant for misdemeanor arrests where the offense was committed in the officer's presence
+
+        RULE: arrestee is entitled to ex post magistrate review within 48 hours
+
+    PAYTON: arrests in suspect's home
+
+        RULE: warrantless entry into private home for the purpose of arrest no permitted
+
+        RULE: arrest warrant req to enter, but no search warrant req
+
+    STEAGALD: arrests in 3rd party home
+
+        RULE: search warrant to enter home is req to preserve 3rd party rights
+
+        Arrests in a public space of an apartment building req no warrant.
+        Arrests in your apartment req warrant.
+        Arrests on your threshold may req no warrant.
+        Arrests on your porch req no warrant.
+
+    ATWATER: seatbelt arrest case
+
+        RULE: cops may make a custodial arrest for first-time, fine-only misdemeanors
 
         
