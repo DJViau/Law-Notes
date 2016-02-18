@@ -954,4 +954,256 @@ Day 9
 
         RULE: cops may make a custodial arrest for first-time, fine-only misdemeanors
 
-        
+Day 10
+2/15/2016
+
+    ATWATER CONT:
+
+        this is easy for cops to follow, but it authorizes brutal and senseless humiliation
+
+        VA v Moore:
+
+            Moore's argument:
+
+                the state law already provided a bright line for this similar situation
+
+            Court:
+
+                cops can take suspects into custody even when it violates state law
+
+    FLORENCE: guy mistakenly brought in on a minor offense
+
+        RULE:  everyone who comes into the jail gets the same treatment, though
+
+        This case is an example of the brutal consequences of Atwater and Moore.
+
+    SEARCHES INCIDENT TO ARREST START HERE
+
+        where does the exception come from?
+        how far does it go?
+        what can they search?
+
+        SITLA (Search Incident To Lawful Arrest) rationales:
+
+            -officer safety
+
+                this would permit a pat-down/cursory search of the suspect and the immediately surrounding area
+
+                it would also permit a sweep of a home if the arrest takes place in the home
+
+            -evidence
+
+                prevention of destruction of evidence (this is an exigency arg, expires)
+
+                    this would permit searches of the area that the unsecured suspect could affect
+
+                evidence gathering
+
+    CHIMEL: coin shop burglary search of house.  they arrested him at home.
+
+        under the old stds of Harris and Rabinowitz, in practice this would have been constitutionally permissible
+
+        the court overturns
+
+        RULE:  search is now limited to places where arrestee might access weapons or destroy evidence
+
+        CHIMEL defines a searchable "grab area" measured at the time of arrest
+
+        the MAJ redefines the rationales for the search (less about evidence gathering and more about prevention of destruction of evidence)
+
+        The MAJ narrows the scope of what can be lawfully searched incident to arrest
+
+    ROBINSON:  traffic stop, crumpled cigarettes, 14 capsules of heroin
+
+        RULE: no 'reason to believe joe was armed' req for a cop to search an arrestee
+
+        no need to show that arrestee was dangerous, search entitlement is automatic
+
+        cop can go through EVERYTHING in the wallet they pull out of your pocket
+
+            also your journal, or your cigarette pack, etc
+
+    KNOWLES:  if you're not taking suspect into custody, no search incident to arrest
+
+    RILEY:  smartphone search case
+
+        pairs with WURIE, which is the flip phone case
+
+        All the intrusions up to and including the point of the search of his pockets are permissible
+
+        But the question is whether they can poke around through the phone
+
+        Gov argues to apply Robinson directly, and then makes CHIMEL arguments
+            (safety of officers/destruction of evidence arguments[auto-wiping])
+
+            BUT data is not dangerous
+            AND exigent circumstances doctrine would permit a search if they actually believed there was a geo-fencing/remote wiping threat.  Also cops can use Farraday bags to exert control
+
+                this would require some kind of showing of suspicion
+                this is no longer a ROBINSON automatic search situation
+
+            SO
+
+        ROBERTS MAJ: smart phones are fucking different from the crap you keep in your wallets and pockets
+
+            he's more of a reasonableness justice
+
+            but this is a warrant type case.  it's a std criminal investigation.
+
+                normal info gathering means we use the warrant preference model
+
+        RULE: a warrant is generally required before such a search, even when a cell phone is seized incident to arrest
+
+    BUIE: protective sweep case
+
+        RULE:
+
+            when conducting a "protective sweep" of a house
+            where cops are executing an arrest warrant,
+            cops need an articulable suspicion [==RS]
+            that areas swept harbor an individual posing a danger.
+
+            It may extend only to a cursory inspection
+            of those spaces where a person may be found
+
+        also, as a chimel search, you need no PC or RS to look in the closets in the room where the suspect is arrested
+
+            [opening closets is automatically permitted under CHIMEL]
+            [you need RS to go into other rooms in the house]
+
+    BELTON: DO NOT CITE, USE GANT INSTEAD
+
+        searches incident to arrest in cars typically follow a pattern:
+
+            arrest a suspect
+            put him in cuffs in the back of the cop car
+            search the car
+
+        this expanded the SITLA exception significantly, and unhinged it from its justifications
+
+        the automatic car search after arrest was too far for the ct
+
+        THORNTON expanded BELTON by permitting cops to search cars even after the suspect had left the car voluntarily
+
+Day 11
+2/17/2016
+
+    Make a car card:
+
+        all the possible ways to search a car
+
+    ROBINSON RULE: cops get a free search incident to arrest automatically, no PC no RS req
+
+        they can search you and your pockets and your purse but not your locked briefcase
+
+    RULE:  as long as you have regular inventory procedures, you can inventory search
+
+    GANT: suspended license cocaine case.  CRITICAL CASE! EXAM
+
+        RULE:
+
+            for cops to search car incident to arrest, D must have been in position to reach area searched (rooted in CHIMEL) [limited to passenger area]
+
+            OR
+
+            cops must have "reason to believe" evidence related to crime of arrest will be located there (rooted in SCALIA'S THORNTON dissent) [limited to passenger area]
+
+                The search must be limited to the grab area of the suspect during THE TIME OF THE SEARCH
+
+        "reason to believe"
+
+            requires some level of suspicion, something like reasonable suspicion
+            has to be about the offense, think atwater and picasso
+
+    THIS IS WHERE WE TRANSITION FROM THE WARRANT MODEL AND ITS EXCEPTIONS TO THE REASONABLENESS MODEL
+
+        All the warrant exception cases involve at least some suspicion
+        What follows will be suspicionless searches
+
+        where to break out reasonableness:
+
+            administrative searches
+            government inspectors (who are not invesitagting cops)
+
+        key distinction: purpose of the search
+
+            criminal investigation falls into the warrant model (trad cop snooping)
+            administrative searches fall into the reasonableness model
+
+    BERTINE: DUI van inventory case
+
+        RULE:
+
+            police may inventory a vehicle they impound incident to arrest
+            as long as they use "REGULAR PROCEDURES"
+
+    INVENTORY SEARCHES:
+
+        no suspicion required
+        regular procedures required
+        purposes:
+
+            protect owners' property rights
+            protect cops
+
+                these purposes don't have to be established though
+
+            the point ostensibly is not to advance an investigation
+            but cops can use everything they find in a prosecution
+
+    CAMARA and SEE:  regulatory search cases
+
+        Step One:  Is there a search?
+
+            Yes.  There's a government actor poking around.
+
+        Step Two: Did it comply with the reqs of the 4thA?
+
+            As long as they COMPLY with their REASONABLE STANDARD SEARCH PROCEDURES, it's reaosnable.
+
+        Step Three:  We don't reach this, there's no remedy where there's no violation.
+
+    TERRY:  stop and frisk case
+
+        FACTS:  40yr cop watches a few guys casing a store.  Stops them, grabs them, frisks them, orders them into the store, and shakes them down, seizing weapons
+
+            he supposes he has reaonsable suspicion that they're contemplating a theft
+                [cops don't always have to specify the crime they suspect]
+            and suspects that they may have weapons
+
+        ANALYSIS:
+
+            1- Is there a 4thA event here?
+
+                stop==seizure?
+
+                    were they free to leave the encounter? no.
+                    were they free to not answer his questions? no.
+
+                    YES!
+
+                        a stop is a 4thA seizure
+
+                patdown==search?
+
+                    YES!
+
+                        a frisk is a 4thA search
+
+            2- If yes, did the search or seizure comply with the reqs of the 4thA?
+
+                Does the stop and the frisk comply with the warrant model? no.
+                Does it count as unreasonable under the 4thA? no.
+
+                They use reasonableness to try to find some middle ground in the 4thA
+
+                He had suspicion based on facts and rational inferences.
+
+                    he articulates facts (pacing, failure to answer)
+                    and his experience apparently allows him to infer from there
+
+                for a STOP, you need "REASONABLE SUSPICION" that the suspect is contemplating a crime/ "criminal activity is afoot"
+
+                
+
+            3- If no, what is the remedy?
