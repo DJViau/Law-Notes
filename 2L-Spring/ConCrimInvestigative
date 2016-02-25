@@ -339,6 +339,10 @@ Day 4
 
         not a search unless it unreaosnably extends the length of the seizure
 
+    PLACE
+
+        90 min of holding luggage is problematic.  exceeds the scope of a Terry stop
+
     JARDINES
 
         F: drug sniffing dog detects pot smell.  they go and get a warrant, and find pot.
@@ -347,6 +351,8 @@ Day 4
 
         police used device not in public use (analogy to thermal camera in kyllo)
         this is in the porch of a HOME (this makes it less like place and caballes)
+
+        RULE: dog sniff is not a search
 
         GOV would argue:  dog sniff is not a search
 
@@ -884,7 +890,7 @@ Day 8
         cars are easily moved, this means evidence is vulnerable to destruction
         cars go on the road and are subject to pervasive regulations, so no REOP
 
-        if you have PC that there's evidence of a crime in a car, cops can stop and search it without a warrant
+        KEY RULE: if you have PC THAT THERE'S EVIDENCE OF A CRIME IN A CAR, cops can stop and search it without a warrant
 
 Day 9
 2/10/2016
@@ -899,7 +905,7 @@ Day 9
 
     ACEVEDO:
 
-        RULE: if they have PC for the car they can search an automobile and all containers within it
+        KEY RULE: if they have PC for the car they can search an automobile and all containers within it
 
         RULE:  if they have PC to search for the container, they can search the car until they find the container, and they can open the container
 
@@ -1175,7 +1181,7 @@ Day 11
 
             1- Is there a 4thA event here?
 
-                stop==seizure?
+                STOP==SEIZURE?
 
                     were they free to leave the encounter? no.
                     were they free to not answer his questions? no.
@@ -1184,7 +1190,7 @@ Day 11
 
                         a stop is a 4thA seizure
 
-                patdown==search?
+                FRISK==SEARCH?
 
                     YES!
 
@@ -1195,15 +1201,149 @@ Day 11
                 Does the stop and the frisk comply with the warrant model? no.
                 Does it count as unreasonable under the 4thA? no.
 
-                They use reasonableness to try to find some middle ground in the 4thA
+                    They use reasonableness to try to find some middle ground in the 4thA
 
-                He had suspicion based on facts and rational inferences.
+                    He had suspicion based on facts and rational inferences.
 
-                    he articulates facts (pacing, failure to answer)
-                    and his experience apparently allows him to infer from there
+                        he articulates facts (pacing, failure to answer)
+                        and his experience apparently allows him to infer from there
 
                 for a STOP, you need "REASONABLE SUSPICION" that the suspect is contemplating a crime/ "criminal activity is afoot"
 
-                
+                STOP is justified by Reasonable Suspicion that criminal activity is afoot
+
+                FRISK is justified by Reasonable Suspicion that the suspect is armed
 
             3- If no, what is the remedy?
+
+        The stop is about investigating and finding evidence of criminal activity
+        The frisk is about officer safety
+
+            but, that which the cops uncover while search for safety's sake is admissible
+
+        What is the scope of a Terry stop?
+
+        RULE: Handcuffs are a factor, but not dispositive.  they suggest arrest.
+
+Day 12
+2/23/2016
+
+    EXAM:  as a catch-all at the end of any analysis, mention that the cops can inventory
+
+    STOPS AND FRISKS
+
+    DUNAWAY
+
+        murder suspect taken into custody without probable cause
+
+            cops will want to say this was only a stop
+            suspect will want to say this went into arrest territory
+
+        physically restrained, made incriminating statements
+
+        Key fact:  the suspect was taken from one place and moved to another
+
+        RULE: a stop is more likely an arrest if the suspect is substantially moved
+
+            stepping out of the street, stepping into the hallway does not suffice
+            moving to a different building counts as a substantial move
+
+    ROYER
+
+        airport drug case, suspect moved to an interrogation room 40ft away, 15min passes
+
+        these facts about relocation and time push this over the line from stop to arrest
+
+        RULE: a stop is more likely an arrest if 20min passes or if spooky room
+
+    MIMMS
+
+        cop orders a suspect out of his car
+        frisks him and finds a gun
+
+        issue:  whether ordering him out of the car makes this an arrest
+
+        Holding: nah, that's just fine bc officer safety
+
+        RULE: where officer safety is implicated, we have no 4thA rights
+
+        GENERAL RULE: a traffic stop is treated like a Terry stop
+
+            even though they have PC that a traffic infraction happened
+
+    JOHNSON
+
+        license plate stop in a gang neighborhood
+        no reason to suspect anyone was involved with gang activity
+        guy looks at cops and possesses a scanner
+        cops order him out of the car and find a gun
+
+        they have PC to stop the car on a traffic stop
+
+        cops can order the driver and the passengers out of the car
+
+        issue: was there RS for the frisk?
+
+        holding: the cops had RS that he was armed, based on the list of factors
+
+        D's argument: there is no RS for this stop or frisk based on this D
+
+            the stop was about registration, not gang activity
+
+        RULE: cops can frisk even when the frisk is unreated to the purpose of the stop
+
+    SHARPE
+
+        RULE: there's no fixed time restriction for Terry stops
+
+        20min of stoppage was hunky dory in the ct's view
+
+    RODRIGUEZ
+
+        dog sniff extends the length of the stop.  the traffic stop had ended, and the 7 minute extension of the stop (where he was not free to leave) was unlawful
+
+        RULE: authority for the seizure ends when the tasks tied to the traffic infraction are--or reasonably should have been--completed
+
+            does the suspect feel free to leave?
+
+    WARDLOW
+
+        guy holding a bag at noon runs from police
+
+        issue:  whether flight from police is sufficient to establish RS
+
+        the court brings up a bunch of other supporting factors
+
+            -they assert unsupported that its a high crime neighborhood
+            -eye contact, then flight
+
+        RULE:  if you can layer other factors onto flight, you can claim RS
+
+    LONG
+
+        RULE: cops can "frisk" your car
+
+            open hand touching for weapons bc safety is permissible
+            groping and manipulating is not
+
+                if you feel something that feels like contraband
+                you can invoke the "plain feel" doctrine
+
+    DICKERSON
+
+        RULE: pat down for weapons is ok, patdown for drugs is not
+
+            but if you find drugs while patting for weapons, admissible
+
+    ARVIZU
+
+        minivan on the border with weird waving kids in the back
+
+        the factors taken together are enough to make an officer reasonably suspicious
+
+            RS of drug smuggling
+
+    HIBBLE
+
+        cop can req you to identify yourself
+        
