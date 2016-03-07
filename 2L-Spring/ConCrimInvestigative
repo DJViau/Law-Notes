@@ -444,6 +444,10 @@ Day 4
 
         police pursuit case
 
+        RULE: stopping in response to police, or cop laying a hand are seizures
+
+        RULE: a fleeing suspect is not seized by police
+
         physical force seizure: when cop touches suspect
         show of authority seizure: when suspect submits to cop's authority
 
@@ -1319,6 +1323,8 @@ Day 12
 
         RULE:  if you can layer other factors onto flight, you can claim RS
 
+        flight and other factors can be considered into RS analysis
+
     LONG
 
         RULE: cops can "frisk" your car
@@ -1346,4 +1352,366 @@ Day 12
     HIBBLE
 
         cop can req you to identify yourself
-        
+
+Day 13
+Leap Day 2016
+
+    WHITE:
+
+        accurate predictive anonymous tip corroborated by cops
+
+        there was sufficient indicia of reliability
+
+        this is probably the minimum of what RS requires
+
+            RS: lower std, can rely on informants, less demanding, totality of the circumstances, can consider innocent factors
+
+    FL v JL
+
+        there's a tip involving the race, shirt, and an allegation that suspect is holding a gun
+
+        but there's no predictive power in this tip
+
+        it suggests this tipster has no intimate knowledge of the suspect's patterns
+
+        RULE: a bare, anonymous and unpredictive tip is not sufficient for RS for a stop and frisk
+
+            no firearm exception
+            but maybe a bomb exception in national security/terrorism
+
+    NAVARETTE
+
+        bare tip on a silver F150 about a traffic violation
+
+        they pull the truck over, and find a lot of pot
+
+        Thomas v Scalia discussion
+
+        court conducts an analysis of factors that cut in favor of reliability
+
+            its almost predictive
+            its kind of not anonymous
+
+        they conclude RS of driving drunk
+        but actually they have RS of reckless driving
+
+            but the court allows an inference from reckless driving to drunk driving
+
+            this is necessary bc otherwise there's no ongoing offense
+
+                the reckless driving is done with, but the drunkenness is not
+
+        RULE: an anonymous tip to 911 announcing a single instance of reckless driving, along with the location of the car, will support a traffic stop
+
+    HEIEN
+
+        brake light is out, cop stops, searches car, finds cocaine
+
+        was there RS for the stop?
+
+            D: no, driver had a stop lamp working. legal in NC.  cop made a mistake of law
+
+            CT: cop made a reasonable mistake of law, its permissible
+
+        RULE: cop can make a stop based on [otherwise] RS grounded in a mistake of law
+
+        they claim that this is an objective standard
+
+    PROFILING
+
+        cops can use profiles to build RS or PC, see arvizu
+        the more discretion a cop has in this context, the more likely he will include race
+
+        RACE
+
+            DOJ guidelines say you can use race
+
+                to filter suspects when you have a description
+                to pursue national security
+
+    SOKOLOW
+
+        cops use a drug courier profile
+
+            paid in cash for airline tickets
+            name did not match telephone
+            destination was Miami
+            short trip duration
+            he appeared nervous
+            didn't check bags
+
+        the factors from the profile hold up. they generate RS
+
+        the fact they were in a profile, they ignore more or less
+
+            no ruling on yes or no for profiles, really
+
+    WHREN
+
+        pretextual stops case
+
+        Suspicion factors:
+
+            high drug area
+            temporary license plates
+            young people
+            distracted driver
+            suspiciously long stop at stop sign
+            car sped away
+
+        cops stop him, see cocaine in the lap of the passenger
+
+        the cops stop him for the traffic violations [and for his race, argues WHREN]
+
+        the court "declines to look into the subjective intent of the officers"
+
+            they say there was an objective reason for the stop, and that flies
+
+            they dismiss the claim as not a 4thA issue, but rather a EP issue
+
+        there's not just a blind claim of pretext.
+        the manual prohibits plainclothes cops from making traffic stops except where danger
+
+    AL KIDD
+
+        guy is held in a maximum-security prison as a material witness to 9/11 insider info
+        they really detained him bc they suspected him of terrorism
+        the material witness detention is a pretext
+
+        to prevail, the court would have to look at the subjective intent
+        otherwise, the detention survives as objectively reasonable
+
+        you just apply the material witness statute
+
+            pc to beleive person has info relevant to an ongoing grand jury investigation
+            impracticable to secure their presence in ct by subpoena
+
+Day 14
+03/02/2016
+
+    AL KIDD
+
+        detainee sues AG for his allegedly illegitimate detention
+
+        he's trying to get at the programmatic purpose of the detention program
+
+        they use a material witness detention statute as a pretext for detaining him
+
+        the affidavit for his warrant contained misrepresentations
+
+            they made him out to look like a flight risk
+            but he really was probably not
+
+    SPECIAL NEEDS DOCTRINE
+
+        EXAM analysis:
+
+            1- has the gov articulated a special [regulatory] need beyond traitional law enforcement? [investigation, evidence-gathering]
+            2- Three-part breakdown:
+                what is the the government interest?
+                how effective is the fit between the program and its goal?
+                how significant is the intrusion on personal liberty?
+
+        Border Searches
+
+        Inventory Searches
+
+            to protect property rights of the suspects
+            police safety
+
+                BERTINE
+                LAFAYETTE
+
+            no PC req except for the PC needed for the predicate arrest
+
+            only req is standard procedures
+
+        Admin Searches
+
+            do not need pc
+            do not need RS
+            reasonable admin scheme is sufficient
+
+        Jail Searches
+
+            florence
+
+                disease control
+                ID gang affiliations
+                contraband detection
+
+        BURGER
+
+            closely regulated business
+            no PC needed
+            reqs:
+
+                subs gov interest
+                inspections nec
+                adequate statutory scheme
+                    provides notice
+                    limits discretion
+
+        PATEL
+
+            I was on call
+
+        BORDER SEARCHES
+
+            MARTINEZ FUERTE
+
+                suspicionless border checkpoint searches are permissible
+                you can even disassemble a gas tank at the border (flores-montano)
+
+            RS req if significantly more intrusive (montoya de hernandez)
+                16 hour detention at border on RS
+
+            roving patrols
+                stop and frisk car RS
+                search car PC
+
+        PROUSE and SITZ
+
+            both sobriety checkpoints
+            req: constrain officer discretion with REGULARIZED PROCEDURES
+            key distinction: is the purpose DETERRENCE or CATCHING criminals?
+
+Day 15
+03/07/2016
+
+    EDMOND
+
+        drug checkpoint case
+        by this point, a sobriety checkpoint is ok as long as the purpose is deterrence
+            [regulatory is ok, catching drunks is not]
+        this is a no go bc trad law enforcement purpose
+
+    LIDSTER
+
+        cops are trying to find info on a hit-and-run
+        checkpoint stop is short, involves only a few questions
+        they're looking for witnesses
+        and handing out fliers
+
+        Analysis:
+
+            Step One:
+
+                Has the gov articulated a [regulatory] SPECIAL NEED beyond traditional law enforcement?
+
+                    the court IDs a special need here bc they're looking for help from the public
+
+                    they're not looking for the suspect, they're looking for witnesses
+
+            Step Two:
+
+                HOW IMPORTANT is the interest?
+
+                    the court would say this is a serious crime investigation, strong interest
+
+                how well does the stop advance the purpose? FIT
+
+                    same time and same place as hit and run, so ct sees good fit
+
+                how strong is the degree of the INDIVIDUAL'S LIBERTY INTEREST?
+
+                    court minimizes this.  not intrusive, not asking them to get out.
+
+    SCHOOL CASES
+
+        no need to establish a problem with the subgroup you want to test
+
+    EARLS
+
+        suspicionless drug-test of students in extra-curricular programs is permissible
+
+    TLO
+
+        probably RS is req for a search of any given student
+
+
+    SAFFORD
+
+        age, sex, seriousness of crime, and intrusiveness all factor in
+        the strip search is too much even with RS
+
+    DRUG TESTING CASES
+
+    VON RAAB
+
+        gov interest in separating drug enforcement officers and drug consumer
+        justifies drug test
+        as a condition of employment
+
+    SKINNER
+
+        drug test for rail employees in accident or safety rules situations ok
+
+    CHANDLER
+
+        drug testing for candidates for public office
+        they fail to establish a problem with the subgroup they want to test
+        the system doesnt even work that well, it's an easy system to game
+
+    FERGUSON
+
+        there was a search
+            bc the testing was performed by a gov actor
+            bc there's a urine sample handed to a nurse and then to law enforcement
+                C/A: analogize to greenwood and to hoffa and the informant cases
+        it did not comply with the req of the 4th
+            bc it didnt hold up under the special needs analysis
+
+            special need would be public health
+
+                but the short term means are traditional law enforcement
+
+    MARYLAND v KING
+
+        DNA sampling case
+
+        there was a search
+
+            two actually:
+            the cheek swab (hicks jones TRESPASS onto the person, REOP squeeze cases)
+            the search of his DNA once it's in the db
+
+        compliance with warrant
+
+            no warrant, no warrant exception
+            not a special needs case bc trad law enforcement purpose
+            therefore this is a totality of the circumstances / reasonableness case
+
+                which plays just like the special needs analysis, except without step one
+
+            BALANCING THE INTERESTS
+
+                gov has interests:
+
+                    -ID those in custody
+                        (though this is BS bc delays and db is full of unsolved cases)
+                    -SECURITY of the facility, cite florence
+                        (fails for similar reasons)
+                    -availability for trial: FLIGHT RISK and bail setting
+                    -dangerousness inquiry in BAIL DETERMINATION
+                    -EXONERATING the wrongly convicted
+
+                fit analysis:
+
+                    objections above undercut fit
+                    the delays are the big problem
+                    MAJ upholds for the following reasons:
+
+                        -this is 21stC version of fingerprinting
+                        -this is terrifically ACCURATE
+                        -the process is LIMITED:
+                            tested (published) population is limited to those convicted
+                            judge reviews
+                            limited to violent offenders
+                            limited to DNA that IDs and not DNA that speaks to health
+
+                privcy interest:
+
+                    cheek swab minimally invasive physically, says ct
+                    the search only IDs person, not facts of person's health
+                    arrestee has a reduced EOP
