@@ -1992,4 +1992,316 @@ Day 17
             the auto-renew system and bad refund policy resulted in lots of chargebacks
             he started making lots of fraudulent charges to combat the chargeback problem
 
-            
+Day 18
+03/28/2016
+
+        WARSHACK CONT
+
+            Massive fraud, memorable facts
+
+            4thA issue:
+
+                gov used stored communications act to check on emails on his server
+
+                    not while they were in transit
+
+            1- Was there a search?
+
+                they say yes, there was
+                he had a REOP bc he put so much biz and personal life into the emails
+                they were private content
+                though not a jones-style property arg
+
+                this is KATZ style REOP analysis
+
+                    -he had a definite subjective expectation of privacy
+                    -this is a legitimate public objective expectation of privacy too
+
+                    GOV analogizes to pen register (Smith, Miller) / third party cases
+                    MAJ analogizes to traditional mail, ISP access does not disrupt REOP
+
+                    a mailman could open your letter, sure
+                    distinguish miller:
+
+                        the bank is the end target recipient
+                        the isp is a mere intermediary
+                        theyre like an phone operator
+                        the bank info is essential to the bank's job
+                        the content of an email is not essential to ISP
+
+                        it's envelope info v info in the letter
+
+            2- Did the gov violate the 4thA?
+
+                Yes bc they seized the emails w/o a warrant and PC
+                they obtained an SCA special order (can be gotten without PC)
+
+            3- What is the remedy?
+
+                it would be suppression
+                but here, good faith exception
+                the gov had a good faith reliance on the SCA
+
+                he argues against good faith
+
+                    they violated provisions of the SCA
+                    they relied on an obviously unconstitutional act
+
+        GRAHAM
+
+            modern case (blackboard)
+
+            221 days worth of cellphone metadata resulting in lots of data points
+
+                (count these because of JONES. the duration mattered for REOP)
+
+                (also maybe bc of RILEY and the amount of info on his phone)
+
+            they don't get the info from Graham's phone, they get it from the company
+
+            MAJ holds that this was not an improper search
+
+                ANALYSIS:
+
+                    1- It is a search to collect info from a cell service provider?
+
+                        KARO, KNOTTS beeper cases tell us no REOP on road movements
+                        JONES concurrence says we might have some REOP here
+                            because of the VOLUME of movement tracking
+                            consider a functional/practical privacy analysis
+                                (would have been possible but costly before GPS)
+                        KYLLO informs the tech aspects here
+                        WARSHACK (SMITH/MILLER) plays too bc third party doctrine issues
+
+                            gov could create a MOSAIC that destroys your privacy
+
+                        3rd party doctrine
+                        cell users give up this info voluntarily
+                        good faith SCA use
+
+    EXCLUSIONARY RULE
+
+        bright line test
+        no post hoc bs, deters police abuse
+
+        Deterrence is the primary justification
+        Judicial Integrity is an unfavored argument
+            bc its a wash
+                accuracy of outcomes
+                vs
+                not using illegally obtain evidence
+
+        for it:
+
+            DETERS COPS from violating 4th
+            consistency between states and feds
+            judicial integrity
+
+        against it:
+
+            doesnt really deter bc knowledge of cops
+            freeing the guilty is messed up
+            no textual support (though 4thA + 5thA = textual support)
+
+    MAPP v OHIO
+
+        Applies exclusionary rule to states, to line em up with feds
+
+        RULE: all evidence obtained by violations of the 4thA are inadmissable in court
+
+        the alternative is a trespass suit agains the cop
+
+            too hard to win
+            meaningless as fas as exculpation
+
+    EXCLUSIONARY RULE STANDING
+
+        -you must be the DEFENDANT IN THE CRIMINAL CASE where the evidence is being offered
+        -person who seeks to suppress must have had his PERSONAL 4thA rights violated
+
+    RAKAS v ILLINOIS
+
+        RULE: Owner of a car has standing in search of car
+
+        RULE: Passengers only have standing in themselves and their effects and effects
+
+            as passengers, they could also object to the stop of the car
+
+        RULE: you have to have some REOP in the car to have standing
+
+    OLSON
+
+        RULE: overnight guests have some REOP in their temporary shelter
+
+    MN v CARTER
+
+        cops snooped guys cocaine packing in a borrowed apartment
+        he goes back and gets a search warrant
+        stops the car and finds cocaine and gun
+        searches the apt and finds cocaine residue and cocaine stuff
+        later, there's a more involved search of the car
+            justifiable as a inventory search probably
+        they make statements following thier arrests
+
+        they want to suppress everything
+
+        EXAM: find the event, and find what to suppress
+
+        the issue is whether or not the defs have standing to ask for suppression
+
+        they have no personal connection to the apt, theyre renting it for an 8 ball
+        theyre not staying the night, otherwise olson would apply
+
+            how long have they been there?
+            is it social or business?
+            is it legal biz or illegal biz?
+            lack of previous connection?
+
+        Outcome:  no 4thA violation bc they lack standing
+
+            they lose the right to exclude all of that
+
+        EXAM: do the 123 analysis first before a standing analysis
+
+Day 19
+03/30/2016
+
+    STANDING DOCTRINE
+
+    EXAM ANALYSIS:
+
+        Applying the Exclusionary Rule:
+
+        be clear what piece of evidence you're talking about
+        did the cops do something illegal to the defendant?
+
+        Fruits analysis:
+
+        did illegality cause the cops to find evidence that the claimant seeks to supress?
+            has the taint attenuated?
+            is there an independent source argument?
+            can cops argue inevitable discovery?
+
+    WONG SUN v US
+
+        CHART THIS FOR EXAM
+
+        facts:
+
+            hom way arrested with heroin
+            way implicates blackie toy, toy is arrested
+            toy implicates johnny yee, who is arrested with heroin
+            yee implicates toy and wong sun
+
+        evidence:
+
+            toy's arrest statement
+            heroin from yee
+            toy's police statement
+            wong sun's police statement
+
+        The illegal arrest of toy is the original poisonous tree in this case
+
+            wong sun's arrest may be illegal as well, perhaps another poisonous tree
+
+        Wong Sun's statement is not FOPT
+            he's released on his own recognizance
+            Wong Sun's statement is made VOLUNTARILY DAYS LATER
+            it's not the fruit of a poisonous tree even if his arrest was illegal
+            the chain of taint had become attenuated
+            his statement is not the fruit of a poisonous tree
+
+        The heroin from Yee's apt is FOPT
+            for Toy, that is
+                toy has standing bc warrantless suspicionsless S&Z
+
+            for Wong Sun, it's not
+                ws lacks standing
+
+        Toy's arrest is FOPT
+            a statement made pursuant to an illegal arrest can be FOPT
+
+        RULE: a verbal statement can be the FOPT
+        RULE: two steps does not mean attenuation, nec
+        RULE: standing acts as a check on FOPT
+        RULE: attenuation of taint by time and free will can clear FOPT problems
+
+    CECCOLINI
+
+        RULE: evidence offered by a live witness is less suppressable than an object
+
+        ? double check this on p 694
+
+        ATTENUATION FACTORS:
+
+            time
+            distance
+            flagrancy of illegal act
+            intervening causes
+            oercion and free will
+            connection between cop violation and suppression (deterrence fit)
+
+        RULE: You need standing as to the initial illegality, and the you can FOPT
+
+    MURRAY
+
+        independent source case
+
+        cops illegally enter the defendant's warehouse, see pot evidence, then leave
+        8 hours later, cops enter with a warrant, yada yada
+
+        but they didnt mention the illegal entrance on the warrant
+
+        the illegal entrance is the poisonous tree
+
+        two layers to [warrant] independence inquiry:
+            -purgation of illegally obtained info
+            -whether the cop would have sought the warrant anyhow
+
+        RULE: where unlawful entry has given knowledge of facts XYZ, but fact Z has been learned by other means, fact Z is admissable bc derived from an independent source
+
+    HUDSON
+
+        violation of the knock and announce rule
+        issue: whether this violation should be remedied by suppression
+
+        WILSON:
+            RULE: cops must knock and announce before entering to execute a warrant unless they have an exception
+        BANKS:
+            RULE: cops must wait 15-20 seconds
+
+        the rationales are safety and preservation of property, and maybe privacy
+        dignity and safety interest are at play here primarily
+
+        the court weighs the interests at stake, fucks the defendant
+
+        RULE: where there is no nexus between the interest at stake and the exclusionary remedy, then the remedy doesn't apply
+
+    NIX
+
+        christian burial case
+        cops [illegally?] pressure def to reveal location of a body
+        he does
+        INEVITABLE DISCOVERY exception to exclusionary rule
+        they would have found the body anyhow bc of an existing investigation at play
+        [though they were 2.5 miles away]
+        therefore no suppression of evidence
+        bc the goal is to put cops back to where they were before the illegal, not worse
+
+        inevitable discovery:
+
+            only applies when cops have violated the const and gathered evidence as a result of the violation
+
+            claim: not that prosecutors HAD and independent source, but that they WOULD HAVE had one
+
+    GOOD FAITH EXCEPTION
+
+        when cop relies in good faith on the warrant, and the warrant turns out to be defective bc it lacks PC, exclusionary rule does not apply
+
+        EXAM:  create a clear statement like this for the other exceptions, and the rule
+
+        LEON: for cop errors
+        EVANS: for court clerk errors
+        HERRING: for cop bookkeepers
+
+        

@@ -1283,4 +1283,240 @@ Comparative Law Day 16
             CIVIL
 
                 party and witness are mutually exclusive
-                
+
+Comparative Law Day 17
+03/29/16
+
+PARTY AND WITNESS STATEMENTS CONT
+
+    CIVIL
+
+        party and witness are mutually exclusive
+
+        in some, party cannot testify at all
+        others, can testify but not under oath
+        others, can call opponent to witness stand
+
+        your lawyer tells your story on your behalf
+
+            but its not evidence
+
+    US
+
+        you can testify and create evidence on your behalf
+        you can actually be the sole evidence
+        a single victim's testimony can create a conviction
+
+    CIVIL
+
+        loves written evidence
+        so they require that contracts above a token amount are written
+
+EVIDENTIARY HEARING (THE CIVIL LAW "TRIAL")
+
+    CIV
+
+        no clear division between trial and pretrial
+        theres a piecemeal method
+        no separation between acquisition and presentation
+        you interview a witness, and he leads to other evidence
+            just like in pretrial phase in US
+            its just like discovery, but judge is present
+        the idea of relevance is more narrow and controlling in civil
+        civil law is much less expensive
+        in the civil law tradition, you can litigate over a bad driveway
+
+    US
+
+        bc there's a trial, we must have pretrial to prep
+        pretrial procedure: most poised to get facts and info, but most expensive
+        an economically viable case here must meet a much higher bar
+
+EXPERT EVIDENCE
+
+    US
+
+        experts are appointed by the parties
+
+        though, FRE allow for a judge to appoint a neutral expert
+            though they don't bc it's costly, and who pays?
+            and also bc they don't want the jury to know of the neutral expert
+
+        advantages:
+            works closely with the party
+            paid by hour, works hard to build a complete report
+
+        problems:
+            terrible conflict of interest
+            experts may tailor their science/publications to meet the needs of clients
+                "there is such a thing as affluenza" will get you a lot of work
+                "repression" psychologists get hired to overcome SoL issues
+                they get themselves convinced of a thing, even in their hearts
+            we've come to expect and account for partisan experts
+            in a "battle of the experts" reasonable doubt inevitably remains
+
+    CIVIL
+
+        experts are appointed by courts
+
+        and the loser pays his fee
+        the court appoints from a registry
+        they work for the judge, who contracts them
+        they're more neutral bc of the payment structure
+        the party with the burden of proof pays the money up front to the judge
+        and then the judge pays the expert
+        and after, the loser foots the bill
+
+        but also, each party can hire an "assessor" expert
+            first to understand the situation
+            then to undertand the report prepared by the court's expert
+            then to discuss with the court's expert
+            and then to influence methodology and conctent of the final report
+            you can also use your expert to challenge the court's expert
+                he normally sides with the court's expert, though
+
+        problem:
+
+            "schools of thought" problem:
+                picking an expert from one school of law picks an outcome
+            this expert is a bureaucrat without incentives to work hard
+
+    EXAM:
+
+        2-3 topics
+        essay format
+        we answer from a comparative perspective
+        talk about expert witness, constitutional court in comparative perspective
+
+Comparative Law Day 18
+03/31/16
+
+    DISCOVERY AND GATHERING EVIDENCE ABROAD
+
+        requires international judicial cooperation
+
+        US: anything before trial has a private flavor, with a dash of public
+        CIV: the whole process, every aspect is performed by a gov official
+
+        this disparity causes trouble when the two systems interact
+
+        Hague Process:
+
+            I talk to my court
+            my court talks to foreign country
+            foreign country talks to foreign court
+            ct complies
+            then evidence goes back through the channels
+
+            it takes a year and a half and results in a half-baked answer
+
+        Blocking Statutes:
+
+            prohibit (and sometimes even criminalize) compliance with discovery orders
+            in FRA, requesting it is a crime, performing it is a crime
+
+            it's about sovereignty
+            and also about protecting the special industries trade secrets
+
+                however, the FR changed domestic law to help accommodate foreigners
+                for the foreigners:
+                    they allow verbatim transcripts
+                    they allow direct questions
+                    they allow presence of a foreign judge
+
+        AEROSPATIALE
+
+            to what extent must a fed US district ct
+            in a case in the US
+            employ the hague evidence convention rules
+            when litigants seek discovery over the FR def
+            when the FR def is in the personal jdx of the ct
+
+            FR def files for a protective order
+                under hague convention
+                under intl comity
+                under the FR blocking statute
+
+                he doesn't want to give up the evidence against himself
+
+            PLTF says I only need hague convention for
+            evidence about a person who I lack personal jdx over
+
+            SCOTUS: in US, hague convention is only for 3rd parties
+            if ct has jdx over def, no need for hague process
+            pltfs can rely on brutal US discovery rules instead
+                is local law says you get some evidence, you get it
+            the hague convention is not mandatory
+                it's a permissive supplement to american law
+
+                DISSENT: try the formal way first
+
+            how you play this depends on where you need to enforce the jdgmt
+            the costs of this also include reciprocity
+
+            "You should secure the way back." -Palestinian Proverb
+
+    FINALITY OF JUDGMENTS & PRECLUSION
+
+    US
+
+        claim preclusion
+
+            res judicata is almost universal
+            all systems have a rule about finality of judgments
+                once it's been determined on the merits judicially
+                the parties cannot bring a second claim on the same cause of action
+
+            the same claim that was the object of a proceeding is decided absolutely
+            you cannot sue again on the same claim
+
+            In the US, in addition
+                any claim about the same transaction or occurrence will be precluded
+                you have to bring everything related to the issue all at once
+                this is known as a prohibition on "splitting the cause of action"
+                    no claim splitting
+
+        issue preclusion
+
+            an issue that was a necessary step to the final conclusion
+            if it was litigated and part of a final judgment
+            cannot be relitigated
+
+                if the validity of a contract was handled within a bigger suit
+                the issue is precluded, and cannot be relitigated
+
+    CIVIL
+
+        claim preclusion
+
+            only the same exact claim is precluded
+            no rule against claim splitting
+
+            in GER, you can litigate the first 10 bucks of a 100.000 suit
+            and then sue later for the remainder
+            this is done to control costs and avoid costly fee shifting
+
+            more common is splitting the damage to the car from the damage to my legs
+
+        issue preclusion
+
+            generally, in principle, no issue preclusion
+            the preclusion is limited to the holding
+            the necessary steps are not precluded and can be relitigated
+
+            issue preclusion exists in PRT and GRE and maybe in ESP
+
+    FORMULA IN US:
+
+        liberal pleadings, liberal discovery, etc
+        but the liberality ends when the proceeding ends
+        then we have very restrictive res judicata
+
+        we proceed slowly and thoroughly and then its DONE
+
+    FORMULA IN CIV:
+
+        strict pleadings, strict discovery, etc
+        but then a very liberal res judicata
+        you can bring related claims
+        and litigate stuff you didn't know about
