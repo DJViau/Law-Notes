@@ -143,7 +143,9 @@ Days 2 & 3
 
         cops walk onto a property and peek into a barn
 
-    CIRAOLO/RILEY
+    CIRAOLO
+
+    RILEY
 
         p372
 
@@ -842,6 +844,8 @@ Day 8
 
     CLASS:  VIN case
 
+        RULE: no REOP in a VIN
+
         cops searching for VIN see a gun
 
         Looking through the window standing next to the car does not require plain view doctrine.  It's not even a search.
@@ -1035,7 +1039,9 @@ Day 10
 
     KNOWLES:  if you're not taking suspect into custody, no search incident to arrest
 
-    RILEY:  smartphone search case
+    RILEY:
+
+        smartphone search case
 
         pairs with WURIE, which is the flip phone case
 
@@ -1120,6 +1126,8 @@ Day 11
 
                 The search must be limited to the grab area of the suspect during THE TIME OF THE SEARCH
 
+        RULE: gant does not get you into the trunk as part of a SITLA
+
         "reason to believe"
 
             requires some level of suspicion, something like reasonable suspicion
@@ -1148,6 +1156,8 @@ Day 11
             as long as they use "REGULAR PROCEDURES"
 
     INVENTORY SEARCHES:
+
+        EXAM: ALWAYS THINK OF AN INVENTORY SERCH
 
         no suspicion required
         regular procedures required
@@ -1576,6 +1586,10 @@ Day 14
             req: constrain officer discretion with REGULARIZED PROCEDURES
             key distinction: is the purpose DETERRENCE or CATCHING criminals?
 
+                reasonableness of conduct at a suspicionless checkpoint
+                it all hinges on whether there is discretion
+                regularized procedures applied to everyone are reasonable
+
 Day 15
 03/07/2016
 
@@ -1882,6 +1896,8 @@ Day 16
 
         consent must be voluntary
         waiver must be voluntary, knowing, and intelligent
+
+        always consider phrasing and tone of cops consent question
 
     SCHNECKLOTH v BUSTAMONTE
 
@@ -2304,4 +2320,327 @@ Day 19
         EVANS: for court clerk errors
         HERRING: for cop bookkeepers
 
-        
+Day 20 and review session
+04/04/2016
+
+    LEON CONTINUED
+
+        you cant rely on the magistrate if youve misled them, or if you know theyre a stamp
+        these are small exceptions to the LEON exception
+        also, when you can tell your application is defective on its face
+        if it clearly lacks probable cause or particularity
+
+        but basically a warrant is always a golden ticket for a cop
+
+        BRENNAN and MARSHALL are not so sure this good faith exception is a good thing
+
+    HERRING
+
+        RULE: exclusion not required for negligent police bookkeeping errors
+
+        The exclusionary rule only applies to the prosecutor's case-in-chief
+
+            everywhere else, the evidence illegally gotten can be used
+
+    Retroactivity
+
+        RULE: Supreme Court rulings are not retroactive for habeus cases
+
+    DAVIS
+
+        RULE:
+            searches conducted in objectively reasonable reliance
+            on binding appellate precedent
+            are not subject to the exclusionary rule
+
+            except in the case of landmark cases governing suspects' rights
+
+        cops had relied on BELTON, instead of new GANT
+        no exclusion bc no deterrent value here
+
+    HERE ENDS 4thA
+    HERE BEGINS 5thA
+
+    THE FIFTH AMENDMENT:
+
+        due process
+        no double jeopardy
+        no takings without money
+        grand jury rights
+
+        KEY TEXT FOR US:
+
+            "NOR SHALL BE COMPELLED IN ANY CRIMINAL CASE TO BE A WITNESS AGAINST HIMSELF"
+
+        PURPOSES:
+
+            protect defs from cruel trilemma of perjury, contempt, or self-incrimination
+            preference for accusatorial over inquisitorial (prosecutor must build case)
+            fear of forcing false confessions by means of torture/coercion
+            dignity and privacy rights (this is a narrow protection, though)
+            to protect the innocent (and soemtimes the guilty)
+
+            -to buffer between citizen and gov
+            -to allow dignity and autonomy
+            -to protect first amendment rights
+
+        THREE ELEMENTS:
+
+            -compulsion "no person ... shall be compelled"
+            -incrimination "in any criminal case"
+            -testimony "to be a witness against himself"
+
+        Limitations:
+
+            only individuals can invoke the privilege, not corporations
+            only for testimony, not recorded statements voluntarily made
+
+    LEFKOWITZ
+
+        NY statute required contractors to waive their 5thA rights
+        in order to be eligible for state contracts
+
+        RULE: it is impermissible to compel a party to waive 5thA rights
+        in order to be eligible for gov work contracts
+
+    MCKUNE
+
+        def was a prisoner who was ordered to participate in a therapy program
+        he had to give a sexual history that could be used to prosecute him
+        if he didnt, he'd lose visitation rights and other privileges
+
+        the court found the loss of rights did not rise to the level of a compulsion
+        they rely heavily on the fact he's a prisoner already
+        and that the point of the program is rehabilitation
+
+        they could have solved the 5thA issues with an immunity promise
+        or by structuring it around incentives instead of penalties
+
+        he'd argue: the threat of worse living conditions is compulsion
+
+    ANTELOPE
+
+        if you extend the program outside prison to probationers
+        there's compulsion there
+        extending a prison term amounts to compulsion
+            (whereas changing its quality does not)
+
+    GRIFFIN
+
+        RULE: a prosecutor cannot comment on def's silence at trial
+
+        5thA protections are broadest at trial
+
+    CARTER
+
+        RULE: defs can get a jury instruction that
+            jury should not draw negative inferences
+            from the def's silence at trial
+
+    GENERALLY:
+
+    RULE: 5thA claimaints must generally excplicitly claim the 5th, otherwise it's a waiver
+
+    RULE: if you answer a general question, you have to answer follow ups
+
+    RULE: only applies if there's an ongoing possibility of prosecution
+
+        no 5thA privilege if SoL has run, or if you have immunity
+
+    INCRIMINATION
+
+        refers to the consequences of giving a statement
+
+            can be in a civil case
+
+        exam analysis considerations:
+
+            focus on the liability at issue (criminal or civil)
+            how serious is the risk of prosecution
+            has the gov offered immunity
+
+    KASTIGAR
+
+        case about types of immunity
+
+        they first got "use and derivative use" immunity
+        they wanted "transactional" immunity
+
+            under use and derivative:
+
+                you're only protected from use of the statements themselves
+
+                gov can still prosecute if they find info independently
+                    kind of like inevitable discover/independent source
+
+                derivative use is finding things based on what you say
+                    it protects you from the leads you provide
+                    kind of like FOPT
+
+            under transactional immunity:
+
+                you're protected from prosecution for the offense you talk about
+                this is a broader immunity
+                you're given a get out of jail free card for the transaction
+
+        RULE: cheap immunity counts as immunity, and kills your 5thA privilege
+
+            gov must only offer "use and derivative use immunity" to kill 5thA privilege
+
+            burden is on prosecutor to establish independent source
+
+    WARD
+
+        shows whats a crime and whats merely civil, despite label legislature gives
+
+        factors:
+
+            congressional intent / description
+            degree of punishment
+            penalizing mechanism
+
+            the enumerated:
+
+            -whether it imposes an affirmative disability or restraint
+            -whether regarded traditionally as a crime
+            -mens rea/scienter showing required
+            -promotes rtributon/deterrent aims of punishment
+            -whether already crime
+            -rationally connected alternative purpose for punishment
+            -appears excessive compared to alternative purpose
+
+Day 21
+04/06/2016
+
+    WARD
+
+        "I spilled oil."
+
+            theyget use immunity for that statement
+
+            they can't be prosecuted for that statement
+            but the gov can prosecute if they find and verify the same info independently
+
+            but there's also this civil penatly
+                and the court must determine if the civil penalty is really criminal
+                if it's criminal, then the privilege applies
+
+    HIIBEL
+
+        was it a lwaful order to require him to ID himself?
+        yes, a statute gave the cops that power
+
+        not protected by the privilege bc
+
+        it's super unlikely to be incriminating here
+
+    DEFINING TESTIMONIAL
+
+        SCHMERBER
+
+            blood drawing case
+
+            RULE:
+
+                not testimonial:
+
+                    fingeprints
+                    photos
+                    DNA
+                    line-up
+                    hair
+                    trying on clothes
+                    writing sample
+                    signature authorization
+
+            HOLT
+
+                try on the blouse
+                PASI is about communications
+                physical evidence not protected
+
+        DOE
+
+            the privileged communication must relate a factual assertion or disclose info
+
+        MUNIZ
+
+            drunk driving case where the guy was videotaped answering biographcal questions
+
+            the slurred speech was not testimonial and not protected
+            his response to the 6th birthday question is testimonial and protected
+
+                the content of the response was the result of his mental calculation
+
+    DUE PROCESS VOLUNTARINESS
+
+        Note:
+
+            not just "I did it."
+            also includes "I was at the quickiemart on July 4th."
+
+        TWO ELEMENTS:
+
+            -coercion by gov
+            -Def's will is overborne
+
+            FACTORS:
+
+                defendant's characteristics:
+
+                    age, mental stability, educaiton, sophistication
+
+                police action:
+
+                    length of detention, duration and intensity of questioning, use of trickery, promises of leniency, deprivation of food water contact, whether advised of rights, physical or mental abuse
+
+        5thA/14thA
+
+            BROWN
+
+                guy tortured into confessing
+                RULE: extends the voluntariness requirement to states
+
+            ASHCRAFT
+
+                less directly physical abuse, but still brutal interrogation
+                sleep deprivation, threats, lighting, 36 hours straight
+                RULE: a coercive environment can make a confession involuntary
+
+            WATTS
+
+                questioning not continually, but with solitary, no food, long duration
+                RULE: sustained pressure by cops that reulsts in a confession is no good
+
+                Voluntariness is a "totality of the circumstances" analysis
+
+                    did the ToC become so coercive as to make the confession unreliable
+                    the problem is that cops won't know how to follow this rule
+
+            CONNELLY
+
+                heard voices, confessed
+                RULE: coercion must come from gov to render a confession inadmissable
+                RULE: the suspect's will must be overborne by gov
+
+                    his own internal demons pushing out a confession: no problem
+
+        RIGHT AGAINST SELF-INCRIMINATION 5thA
+
+            BRAM
+
+                RULE: extends the 5th outside of the courtroom
+                cops brutalized a guy and extorted a confession
+                coercion and inducement are both problematic
+                RULE: coerced confessions are not admissible
+
+            MIRANDA
+
+        RIGHT TO COUNSEL 6thA
+
+            MASSIAH
+
+Day 22
+04/11/2016
+
+    
