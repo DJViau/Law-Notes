@@ -2384,9 +2384,10 @@ Day 20 and review session
             -to allow dignity and autonomy
             -to protect first amendment rights
 
-        THREE ELEMENTS:
+        THREE ELEMENTS REQ TO ESTABLISH 5thA PRIVILEGE:
 
             -compulsion "no person ... shall be compelled"
+                [MIRANDA fits here bc custody and interrogation are inherently compulsive]
             -incrimination "in any criminal case"
             -testimony "to be a witness against himself"
 
@@ -2592,7 +2593,7 @@ Day 21
 
                 police action:
 
-                    length of detention, duration and intensity of questioning, use of trickery, promises of leniency, deprivation of food water contact, whether advised of rights, physical or mental abuse
+                    length of detention, duration and intensity of questioning, use of trickery, promises of leniency, deprivation of food water contact, whether advised of rights, physical or mental abuse, truth of evidentiary assertions
 
         5thA/14thA
 
@@ -2633,6 +2634,22 @@ Day 21
                 cops brutalized a guy and extorted a confession
                 coercion and inducement are both problematic
                 RULE: coerced confessions are not admissible
+                RULE: confessions must be voluntary bc 14thA
+
+            ANDRESEN
+
+                voluntarily made statements in writing
+                gathered by cops, not def
+                no req for def to authenticate
+
+                therefore no 5thA problem
+
+            DOE
+
+                RULE: act of production can be testimonial if:
+
+                    docs don't yet exist
+                    two other points I was too slow to copy
 
             MIRANDA
 
@@ -2640,7 +2657,241 @@ Day 21
 
             MASSIAH
 
+                def arrested for narcotics, posted bail, buddy agreed to a bug
+                massiah makes incriminating statements
+                he asserts he was denied on his 6thA right to a lawyer
+                and a 5thA due process argument
+                and a 4thA argument
+
+                right to counsel had attached, so yes 6thA issue
+                gov did not deliberately elicit statements, so no 5thA issue
+
+                RULE: no PASI where the statements aren't coerced (think custody)
+                RULE: his 6thA rights were violated bc the trial was under way when bugged
+
 Day 22
 04/11/2016
 
-    
+    BREAKDOWN:
+
+        5th/14th due process:
+
+            brown ashcraft watts spano connelly
+
+        6thA right to counsel:
+
+            massiah escobedo
+
+        5thA privilege against self-incrimination:
+
+            bram miranda
+
+    PATH TO MIRANDA (part of the 5thA)
+
+        BRAM
+
+        MASSIAH
+
+        ESCOBEDO
+
+            DO NOT CITE
+
+            guy is arrested but not formally charged
+            he asks for a lawyer, is denied
+            lawyer asks for escobedo, is denied
+            escobedo confesses to murder
+
+            guy held denied the constitutional guarantee of assistance of counsel
+
+            moves the 6thA into the station house
+
+    MOTHERFUCKING MIRANDA
+
+        miranda rapes a girl, interrogated in the middle of the day
+        not yet formally charged
+        partially advised of his rights
+            he'd been instructed this could be used agaisnt him
+            and he'd signed off that he understood his legal rights
+        extended discussion of police interrogation tactics
+            ask why they did it, not if they did it
+            offer theories of why they might have done it
+        the court has concerns beyond abuse, food and sleep deprivation, etc
+
+        5thA prohibits compelling self-incriminating testimony
+
+        RULE: 5thA applies to cop questioning bc its inherently compelling
+        RULE: the specified warnings and waiver reqs are nec to dispel compulsion
+            the warning empowers a suspect to make a voluntary and knowing choice
+
+        where custody and interrogation, cops must give the 4 warnings
+        suspect must VKI waive miranda
+        right to onvoke miranda lasts throughout questioning
+        burden of demonstrating waiver belongs to prosecution
+
+        -you have the right to remain silent
+        -anything you say can and will be used against you in a court of law
+        -you have the right to an attorney
+        -if you cannot afford an attorney, one will be appointed to you free of charge
+
+            these advise the suspect of his rights
+
+                puts suspect on notice that cop is aware of suspect's rights
+                notifies suspect he's in an adversarial proceeding
+                this also creates a new 5thA right to atty during questioning
+
+            and it makes it easy to prove that waiver was VKI
+            it legitimizes what happens in interrogation room
+
+        RULE:  these warning must be provided when the suspect is QUESTIONED in cop CUSTODY
+
+            custody for miranda means deprived of freedom of action in any significant way
+
+            interrogation also required
+
+        RULE: suspect who asserts his rights is entitled to a freeze of questioning
+
+            either until an attorney is present or something else, fleshed out later
+
+        DISSENT:
+
+            not supported by precedent
+            not supported by history
+            not supported by text of constitution
+
+            takes power from cops to do their work
+            does not have internal coherence
+            does not take account of severity of crime
+
+            suspects do not understand their rights, even when read to them
+            people have a natural inclination to tell a story
+
+            this is an overreach by the court into legislative realm
+
+        MIRANDA RULES;
+
+            there can be custody outside the cops interrogation rooms
+            miranda not triggered when suspects voluntarily go to cops to confess
+            miranda no triggered during terry stop / traffic stop / on scene questioning
+
+        Formula:
+
+            custody + interrogation = cops must read 4 miranda warnings
+
+            suspect must voluntarily, knowingly, and intelligently waive miranda rights
+
+            right to invoke miranda lasts through interrogation
+
+            burden to prove waiver is on prosecution
+
+        CUSTODY TEST
+
+            TWO PART, OBJECTIVE INQUIRY:
+
+            what were the circumstances surrounding the interrogation?
+            given the circumstances, would a reasonable person have felt free to leave?
+
+            CUSTODY FACTORS COLLECTED:
+
+                location (public or private)
+                duration
+                number of officers
+                mutually arranged appointment
+                voluntariness of encounter
+                familiar with surroundings
+                no physical restraint / freedom to leave
+                age
+
+    CUSTODY under MIRANDA
+
+        BERKEMER
+
+            guy is traffic stopped for swerving
+            he is not free to leave, so he's seized (MENDENHALL and ROYER)
+            but they don't choose formal arrest as the point where custody begins
+
+            "was there a formal arrest"
+            or
+            "was there a restraint on movement of the degree associated with formal arrest"
+
+            RULE: persons temporarily detained pursuant to such stops are not "in custody"
+            RULE: terry stops do not trigger miranda either
+
+            key factors:
+
+                duration
+                public
+                number of officers
+
+                [what matters here is the level of police domination]
+
+        MURPHY
+
+            RULE: a person is not in custody where there is no formal arrest or restraint
+
+            key factors:
+
+                mutually arranged appointment
+                voluntarily met
+                familiar with surroundings
+                no physical restraint
+
+        JDB
+
+            13 year old burglary suspect questioned by cops and principal
+
+                in a closed room
+                at school
+                threatened with JD
+                confesses
+                given warnings
+                writes his statement
+
+            I: can you consider the age of the suspect in a custody determination?
+
+            H: age is relevant to a custody determination
+
+            key factor:
+
+                age
+
+        HOWES
+
+            inmate in jail involuntarily but in conference room voluntarily
+            judged not in custody for miranda purposes
+                bc door was open, no threats, no restraints, free to leave
+
+    INTERROGATION under MIRANDA
+
+        -express questioning
+        -its functional equivalent
+
+            suspect must know he's talking to cops
+
+        INNIS
+
+            cab driver gets killed, suspect picked up
+            cops mention to each other that the missing gun could hurt someone
+            suspect identifies the location of the gun
+
+            RULE:
+            interrogation only extends to words or actions
+            on the part of cops
+            that they knew or should have known were
+            reasonably likely to elicit an incriminating response
+
+            this is both objective and subjective
+
+                obj: reasonably likely to elicit
+                subj: if intended to elicit, more likely interrogation
+                    and if cops knew of suspect's vulnerability, more likely interrogation
+
+        PERKINS
+
+            RULE: miranda warnings are not req when the suspect is unaware he is speaking to an undercover cop
+
+            none of the miranda concerns about pressures were present
+
+            FULMINANTE
+
+                comes out differently bc there was a threat and offer of protection
+                resolved as due process voluntariness case
