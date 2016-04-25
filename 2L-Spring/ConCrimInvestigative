@@ -1794,6 +1794,8 @@ Day 16
 
             probation officers, RS, Special needs
 
+            RULE:
+
         KNIGHTS
 
             probation case
@@ -2123,7 +2125,7 @@ Day 18
 
         Applies exclusionary rule to states, to line em up with feds
 
-        RULE: all evidence obtained by violations of the 4thA are inadmissable in court
+        RULE: all evidence obtained by violations of the 4thA are inadmissible in court
 
         the alternative is a trespass suit agains the cop
 
@@ -2274,7 +2276,7 @@ Day 19
             -purgation of illegally obtained info
             -whether the cop would have sought the warrant anyhow
 
-        RULE: where unlawful entry has given knowledge of facts XYZ, but fact Z has been learned by other means, fact Z is admissable bc derived from an independent source
+        RULE: where unlawful entry has given knowledge of facts XYZ, but fact Z has been learned by other means, fact Z is admissible bc derived from an independent source
 
     HUDSON
 
@@ -2429,6 +2431,10 @@ Day 20 and review session
     GRIFFIN
 
         RULE: a prosecutor cannot comment on def's silence at trial
+
+        RULE: D has a nearly unqualified right to remain silent in court
+
+            it's a formal legal right, but the jury will infer despite instructions
 
         5thA protections are broadest at trial
 
@@ -2621,7 +2627,8 @@ Day 21
             CONNELLY
 
                 heard voices, confessed
-                RULE: coercion must come from gov to render a confession inadmissable
+                RULE: coercion must come from gov to render a confession inadmissi
+                ble
                 RULE: the suspect's will must be overborne by gov
 
                     his own internal demons pushing out a confession: no problem
@@ -2723,7 +2730,7 @@ Day 22
         RULE: the specified warnings and waiver reqs are nec to dispel compulsion
             the warning empowers a suspect to make a voluntary and knowing choice
 
-        where custody and interrogation, cops must give the 4 warnings
+        where CUSTODY and INTERROGATION, cops must give the 4 warnings
         suspect must VKI waive miranda
         right to onvoke miranda lasts throughout questioning
         burden of demonstrating waiver belongs to prosecution
@@ -2775,7 +2782,7 @@ Day 22
 
         Formula:
 
-            custody + interrogation = cops must read 4 miranda warnings
+            CUSTODY + INTERROGATION = cops must read 4 miranda warnings
 
             suspect must voluntarily, knowingly, and intelligently waive miranda rights
 
@@ -2795,6 +2802,7 @@ Day 22
                 location (public or private)
                 duration
                 number of officers
+                behavior of officers
                 mutually arranged appointment
                 voluntariness of encounter
                 familiar with surroundings
@@ -2885,6 +2893,9 @@ Day 22
                 subj: if intended to elicit, more likely interrogation
                     and if cops knew of suspect's vulnerability, more likely interrogation
 
+            WERE LOOKING FOR EXPRESS QUESTIONING OR FUNCTIONAL EQUIVALENT
+                unless it's routine booking questions
+
         PERKINS
 
             RULE: miranda warnings are not req when the suspect is unaware he is speaking to an undercover cop
@@ -2895,3 +2906,176 @@ Day 22
 
                 comes out differently bc there was a threat and offer of protection
                 resolved as due process voluntariness case
+
+Day 23
+04/18/2016
+
+    EXAM: do not adress standing at the outset
+
+    FORMULA:
+
+        Custody + Interrogation = Miranda Warnings Required
+
+        What's next?
+
+            suspect can INVOKE
+
+                RIGHT TO REMAIN SILENT (MOSLEY)
+                or
+                RIGHT TO ATTY (EDWARDS)
+
+                    then questioning must stop until atty is present
+                    or until D initiates communication (BRADSHAW)
+                    or until 14 days have passed (SHATZER)
+
+            or
+
+            suspect can VKI (MILLER) WAIVE the rights (BURBINE)
+
+                express waiver verbal or signed
+                implied waiver by answering with understanding of rights
+                    course of conduct can be as little as confessing with understanding
+                    (BUTLER, BERGHUIS)
+
+            or
+
+            suspect can STAY SILENT (BERGHUIS)
+                but this is not an invokation
+
+    INVOKATIONS under MIRANDA
+
+        cops are supposed to cease questioning when you invoke you rights explicitly
+
+        MOSLEY
+
+            invoking the right to silence
+
+            two phases of miranda, invokes first, waives second time
+
+            RULE: right to cut off questioning must be scrupulously honored
+
+            RULE: where TIME PASSES, the subject changes, the location changes, the cop changes, and the ORIGINAL INTERROGATION CEASED, suspect may VALIDLY WAIVE his rights [after being remirandized?] despite having invoked his rights before
+
+            RULE: a valid waiver is voluntary, knowing, and intelligent
+
+        EDWARDS
+
+            invoking the right to an atty
+
+            guy in custodial interrogation invokes right to counsel
+
+            RULE: once D has requested counsel, police may not question D further until counsel is made available, unless D initiates further communication
+
+        BRADSHAW
+
+            defines initiates further communication
+
+            guy asks cop, "what is going to happen to me now"
+            cop takes this as an invitation to resume interrogation
+            court sees it as merely a question about his custody
+
+            RULE: in order to initiate, D must demonstrate a desire to discuss the crime
+
+            ideally, cops would get a waiver after initiation
+
+        SHATZER
+
+            D in long term custody, waived his rights, then requests atty, q stops
+            different cop returns years later, he waives again, admits crimes
+
+            RULE: renewed interrogation is allowed after 14 days
+
+            even if you've invoked your right to counsel, cops may resume after 14 days
+
+    WAIVERS under MIRANDA
+
+        MORAN v BURBINE
+
+            RULE: only if the totality of the circumstances surrounding the interrogation reveals both uncoerced choice and the requisite level of comprehension may a court properly conclude waiver
+
+        MILLER v FENTON
+
+            D in a murder case waives his rights
+            he's interrogated
+
+            cop misrepresents the situation about the bloodstains, death of victim, etc
+            cop pressures and tricks him into confessing
+
+            RULE: psychologically coercive questioning can be coercive
+
+    SILENCE under MIRANDA
+
+        BERGHUIS v THOMPKINS
+
+            silent guy for 2 3/4 hours
+            refused to sign an acknowledgement of his rights
+            made a few one-word answers
+            finally breaks silence for a question about god
+
+            he argues that his silence should be understood as an invokation
+
+                that would require the cops to stop badgering him
+
+            the court disagrees
+
+            RULE: you cannot invoke your right to remain silent by remaining silent
+
+Day 24
+04/20/2016
+
+        SALINAS
+
+            guy was not in custody, not seized, not mirandized, no invokation of rights
+            he voluntarily goes to the station, gets questioned by cops
+            cop asks if the shells will match his gun in a ballistics analysis
+            he freezes up and gets squirmy and nervous, remains silent
+
+            not at trial, not in custody, this guy has minimal 5thA privilege
+
+            there's no compulsion bc he's not in custody
+
+    CONSEQUENCES OF VIOLATING MIRANDA
+
+        DICKERSON
+
+            RULE: Miranda is a constitutional case
+            RULE: Miranda may not be overrules by act of congress
+
+            RULE: congress can replace the miranda scheme with legislation
+            RULE congress cannot reinstate totality of the circumstances test
+
+        SEIBERT
+
+            ELSTAD
+
+                brief questioning in living room
+                resulting in confession
+                they mirandize him, and then he confesses again
+                first inadmissible, second admissible
+                no problem, said court, bc no coercion
+
+            Look to how the first round would make the suspect feel about the second
+            Look to whether the second statement was coached
+
+            In response to Elstad, cops make manuals that encourage two-stage system
+
+            RULE: confessions obtained with the two-stage method
+
+            FACTORS:
+                detail and completeness of round 1
+                overlap between rounds 1 and 2
+                timing between rounds
+                same cops different cops
+                continuity of questioning generally
+                    ie references back to first, coaching, etc
+
+            BREYER
+
+                suggests good faith or absence
+                deliberate violations of miranda require suppression
+
+            KENNEDY
+
+                suggests that if the violation was deliberate, then curative measures
+                    like adding to the miranda warnings that the first statements are out
+                    advice on admissibility can fix things up for him
