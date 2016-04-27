@@ -2675,6 +2675,7 @@ Day 21
 
                 RULE: no PASI where the statements aren't coerced (think custody)
                 RULE: his 6thA rights were violated bc the trial was under way when bugged
+                RULE: once proceedings have begun, 6thA attaches, gov cannot deliberately elicit info without presence of counsel
 
 Day 22
 04/11/2016
@@ -3046,6 +3047,12 @@ Day 24
 
         SEIBERT
 
+            two-step interrogation case
+            family burns down trailer
+
+            RULE: police will adapt to court holdings
+            RULE: stage 2 confessions obtained with the two-stage method are inadmissible
+
             ELSTAD
 
                 brief questioning in living room
@@ -3058,8 +3065,6 @@ Day 24
             Look to whether the second statement was coached
 
             In response to Elstad, cops make manuals that encourage two-stage system
-
-            RULE: confessions obtained with the two-stage method
 
             FACTORS:
                 detail and completeness of round 1
@@ -3079,3 +3084,159 @@ Day 24
                 suggests that if the violation was deliberate, then curative measures
                     like adding to the miranda warnings that the first statements are out
                     advice on admissibility can fix things up for him
+
+        ANALYSIS:
+
+            -whether the two-round approach was deliberate to sidestep miranda
+            -is it more like elstad or siebert? apply the 5 factors
+            -determine whether the interrogator took any curative measures
+
+Day 25
+04/25/2016
+
+    PATANE
+
+        RULE: the self-incrimination clause is not implicated by admission of physical fruit of a voluntary statement
+
+        RULE: the clause cannot be implicated by nontestimonial evidence resulting from a voluntary statement
+
+    CHAVEZ
+
+        RULE: PASI violation occurs when the unlawfully obtained statement is introduced in court
+
+    BROAD RULE: physical fruits are likely admissible
+
+        unless the evidence is sometimes testimonial
+
+    HARRIS
+
+        RULE: statements in violation of miranda may be used for impeachment purposes
+
+    QUARLES
+
+        Public safety exception to MIRANDA
+        the excepton operates to permit questioning before the reading of miranda warnings
+
+        RULE: safety outweighs the need for a prophylactic rule protecting the 5thA
+        RULE: no need to supress evidence of the statement and [existence and location of gun] bc safety needs
+
+        test: would a cop fear for his safety or the safety of others, and would the questions get at that safety concern?
+
+    6thA RIGHT TO COUNSEL
+
+        when does it attach? (ROTHGERRY)
+        was it a critical stage?
+            identification procedures (WADE)
+            interrogation (deliberate elicitation?)
+        waiver inquiry
+        remedy
+
+    ROTHGERY
+
+        wrongfully arrested for possession of a weapon by a felon
+        guy gets dragged to a hybrid hearing, etc jailed for 3 weeks
+        objects, 1983 claim, asserts his 6thA right to counsel was violated
+
+        we just want to learn when his 6thA right to counsel attaches
+
+        MAJ: no distinction between 15.17 hearing and later hearing on indictment
+
+        test: 6thA right attaches when
+            -the def is brought before a judicial officer
+            -his liberty of movement has been restricted to aid prosecution
+
+        RULE: 6thA attaches when JUDICIAL PROCEEDINGS HAVE BEEN INITIATED
+
+            jargon: formal charge, hearing, indictment, arraignment
+
+            RULE: not at arrest, not at warrant, not at custody, not when you retain counsel
+
+    What is a CRITICAL STAGE?
+
+        it's a different inquiry from attachment
+        the critical stage question
+
+    WADE
+
+        RULE: post-indictment, post-attachment lineups are a CRITICAL STAGE
+        and therefore you have a right to counsel at that point
+
+    KIRBY
+
+        POWELL
+
+            RULE: 6thA right to counsel attaches after the start of adversarial proceedings
+
+        RULE: pre-indictment lineups do not trigger the 6thA right to counsel
+
+        limitations:
+            lineups and showups are only an issue after attachment
+            photo arrays are not a trigger either
+
+    BREWER
+
+        guy crimes, arrested, retains counsel, then in the cop car he talks with cops
+        cop suggests that parents deserve a christian burial, yada yada
+        cop knows guy is religious, plays to this vulnerability
+        cop persuades this guy to divulge the location of the body
+
+        6thA right to counsel has attached here bc he'd been arraigned
+
+        RULE: right to counsel during interrogation after start of adversary proceedings
+
+            -critical stage?
+                deliberate elicitation (more subjective than INNIS)
+            -waiver?
+                no bc he had attorneys at both ends of the trip
+                and he'd said he wanted counsel present
+                [but there's no need to invoke expressly]
+
+        RULE: gov bears the burden of proving he waived his rights
+
+LAST DAY
+
+    RULE: sixth amendment rights are offense-specific
+
+    HENRY
+
+        in HENRY, the informant asks some questions
+
+        RULE: once formal proceedings have begun, gov may not deliberately elicit
+
+    KUHLMANN
+
+        RULE: D must demonstrate that the informant took some action beyond mere listening
+            that was designed to deliberately elicit information
+
+    CRITICAL STAGE ANALYSIS
+
+        -efforts by gov to deliberately elicit info from suspects post-attachment
+        -no custody requirement (key distinction from 5thA context)
+        -use of gov or nongov agent can be deliberate elictaton (massiah, henry)
+        -intent of officer is key to inquiry (brewer)
+        -need not be questions, speech about christian burial is deliberate elicitation
+        -must be more than mere listening (compare kuhlmann and henry)
+        -did gov agent engage or merely listen
+
+    RULE: you can waive your 6thA right to have counsel present (if VKI)
+
+        but if you don't know you're talking to a gov agent, you can't waive
+
+    RULE: a waiver of miranda rights also waivers 6thA rights
+
+    RULE: police may approach defendant to seek a waiver
+
+    CONSEQUENCES OF A 6thA VIOLATION
+
+        RULE: violative statements are suppressed for case in chief
+
+            but gov can use conflicting statements to impeach
+
+        RULE: physical fruits of violative statements
+
+    MOULTON
+
+        RULE: this is offense-specific, you can be questioned about other stuff
+
+
+    EXAM: four sides, you can write in the book.  answer the question.
